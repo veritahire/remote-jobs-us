@@ -17,310 +17,310 @@ around 2.5 million live jobs free at [veritahire.com](https://veritahire.com/sea
 Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritahire/us-entry-level-jobs) · [US Internships and Co-ops](https://github.com/veritahire/us-internships) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
 
 <!-- jobs:start -->
-**300 jobs**, updated 2026-10-12. Every one was confirmed on the employer's own career site in the last 3 days.
+**300 jobs**, updated 2026-10-13. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
-| Regional Sales Director, Lab Diagnostics - Rocky Mountains | Siemens Healthineers | Remote (OK) | $159K–$219K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50018575) |
-| Practice Transformation Manager | CVS Health | Remote (VA) | $54K–$146K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50013505) |
-| Senior Integration Specialist | CareDx, Inc. | Remote (CA) | $95K–$126K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49875281) |
-| National MSL Director, Gastroenterology | AbbVie | Remote (Mettawa, IL) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49944735) |
-| Remote Psychotherapist (1099 Independent Contractor) | Remote Teletherapist (1099 Contractor) - Seasoned Recruitment | Remote (CA) | - | Contract | 2026-10-12 | [View](https://veritahire.com/j/49856011) |
-| Manager, System of Quality Management & Audit Quality | RubinBrown LLP | Remote (MO) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49791398) |
-| Telehealth: Psychiatric Mental Health Nurse Practitioner (PMHNP) | Remote Teletherapist (1099 Contractor) - Seasoned Recruitment | Remote (FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/49856712) |
-| Hospice Veterinarian / Your Set The Hours / No Non-Compete / San Diego, CA | Heartstrings Pet Hospice | Remote (CA) | $155K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49765943) |
-| Hospice Veterinarian / Your Set The Hours / No Non-Compete / Naples, FL | Heartstrings Pet Hospice | Remote (FL) | $135K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49765901) |
-| Hospice Veterinarian / Your Set The Hours / No Non-Compete / Albuquerque, NM | Heartstrings Pet Hospice | Remote (NM) | $135K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49765829) |
-| Seasonal Tax Preparer (Remote) | CliftonLarsonAllen | Remote (Phoenix, AZ) | $28.20–$45.50/hr | Contract | 2026-10-11 | [View](https://veritahire.com/j/49757643) |
-| Senior Enterprise Architect - Enterprise Engineering Platforms | Liberty Mutual Insurance | Remote (OH) | USD $204,000.00/Yr. | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49708484) |
-| Senior Portfolio Architect - Cloud Runtimes | Liberty Mutual Insurance | Remote (OH) | USD $179,000.00/Yr. | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49708474) |
-| SEO Link Builder | NoGigiddy | Remote (VA) | $16-$23/hr | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49463638) |
-| Newsletter Writer | NoGigiddy | Remote (DC) | $17-$24/hr | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49463135) |
-| Associate Software Engineer | Highmark Health | Remote (PA) | $68K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49369476) |
-| Business Process Analyst - Health Engagement Operations | Highmark Health | Remote (PA) | $58K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49369475) |
-| Product Owner (Truss Software) | Hobart Ground Power - Itw Gse Group | Remote (AL) | $80K–$125K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49358578) |
-| Staff Software Engineer - Engineering Systems, Continuous Integration Team | Snowflake | Remote (Bellevue, WA) | $236K–$354K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49335076) |
-| Senior Technical Program Manager - ML/AI | Snowflake | Remote (Menlo Park, CA) | $166K–$249K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49335074) |
-| Solutions Engineer - Splunk (Remote) | Cisco | Remote (NY) | $212K–$268K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49161346) |
-| Pharmacy Sales Consultant - Baltimore, MD & WV | McKesson | Remote (WV) | $127K–$212K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49133590) |
-| Senior Machine Learning Engineer, Perception - Autonomous Driving | NVIDIA USA | Remote (CA) | $184K–$288K | - | 2026-10-11 | [View](https://veritahire.com/j/49062838) |
-| Sr. Officer, U.S. Philanthropy | National Fraternal Order of Police | Remote (CA) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49711864) |
-| Care Manager (RN)- REMOTE GA | Centene | Remote (GA) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49031459) |
-| Strategic Sales Rep (Westcoast/PST) | RR Donnelley | Remote (Portland, OR) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48969336) |
-| Senior Partner Account Manager | Abacum | Remote (NY) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48967056) |
-| People Operations Generalist | Abacum | Remote (New York City, NY) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48967055) |
-| Senior Platform Engineer, Lab Infrastructure and Security | Plasmidsaurus | Remote (San Francisco, CA) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48959935) |
-| Technical Recruiter | Ambient.ai | Remote (Redwood City, CA) | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48958202) |
-| Work From Home / Hotel Booking Agent / Fully Remote | Destination | Remote (MD) | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611964) |
-| Virtual Personal Travel Assistant / Fully Remote | Destination | Remote (NY) | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611962) |
-| Reservation Support Specialist / Remote | Destination | Remote (Chicago, IL) | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611941) |
-| Senior Legal Assistant | The Hartford | Remote (CA) | $58K–$87K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48785573) |
-| Outside Sales Representative - Powersports FL | Revelyst Operations LLC | Remote (FL) | $49K–$55K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48754100) |
-| Director, Product - State & Local Government | Workday | Remote (GA) | $176K–$264K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48751877) |
-| Stars Strategy & Operations Senior Project Manager - Work From Home | Health Care Service Corporation | Remote (CA) | $93K–$168K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48723396) |
-| Sr. Developer | Health Care Service Corporation | Remote (CA) | $93K–$168K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48723393) |
-| Sr Business Consultant (Remote) | Health Care Service Corporation | Remote (CA) | $70K–$126K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48723389) |
-| AVP, Regional Admin Manager | LPL Financial | Remote (CA) | $109K–$182K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48715399) |
-| SIU Investigator III (Must live in Georgia) | CareSource | Remote (GA) | $72K–$116K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48714721) |
-| Manager Client Audit | CVS Health | Remote (Work at Home, AZ) | $60K–$133K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48615106) |
-| Lead Director, Digital Product | CVS Health | Remote (MA) | $144K–$288K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48615071) |
-| Underwriter II - Commercial | PNC Bank | Remote (OH) | $75K–$125K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48595253) |
-| Academic Affairs Coordinator, Academic Affairs, FT, 08:30A-5P | Baptist Health | Remote (FL) | $49968.62 - $64959.21 / year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48590124) |
-| All Media Journalist | Cox | Remote (OH) | $18.17 - $27.31/hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48536804) |
-| Manager, Medical Education - Field Team - Remote | Stryker | Remote (Mahwah, NJ) | $103K–$171K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48517282) |
-| VP, Core Market Tax Exempt Product Specialist | Fidelity Investments | Remote (IL) | $20–$100/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48506091) |
-| UM Nurse Consultant - Concurrent Review | Oak Street Health | Remote (Work at Home, LA) | $26.01–$56.14/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48502351) |
-| Staff Java Software Engineer - Specialty Pharmacy | Oak Street Health | Remote (Work at Home, MA) | $107K–$261K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48502235) |
-| Senior Software Development Engineer AI | Oak Street Health | Remote (Work at Home, CT) | $83K–$204K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48502175) |
-| Offer Curation Specialist | NoGigiddy | Remote (WA) | $17-$24/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48488575) |
-| Sr. Director, Technical Researcher | Prodege, LLC | Remote (SC) | $155K–$170K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48467883) |
-| Labcorp Genetics Customer Service Support Representative II- Remote | Labcorp | Remote (NC) | $19.00- $22.00 an hour | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48454589) |
-| Senior Account Executive, GTS | Gartner | Remote (CA) | $132K–$170K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48451359) |
-| Manager, Business Strategy & Operations | Salma Health | Remote (San Mateo, CA) | $130/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48443593) |
-| Staff Software Engineer, Developer Productivity | Ironcladhq | Remote (San Francisco, CA) | $210K–$235K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48443196) |
-| Director, Biometrics Strategy and Business Development | eClinical Solutions | Remote (Mansfield, MA) | $125K–$150K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48431115) |
-| Model Risk Manager | Mercury | Remote (CA) | $143K–$161K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48431032) |
-| Software Development Engineer 3- AI & Agentic Systems | WEX | Remote (ME) | $122K–$146K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48428563) |
-| Senior Software Development Engineer | WEX | Remote (ME) | $122K–$146K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48428492) |
-| Enterprise Account Executive - Financial Services, New York/Northeast | Qualtrics | Remote (KS) | $98K–$187K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48423929) |
-| Senior Technical Program Manager, Finance Engineering (Remote) | Activision Blizzard (Santa Monica / Irvine) | Remote (Playa Vista, CA) | $82K–$152K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48423495) |
-| Sales Executive, Pacific North West | Altruist | Remote (UT) | $265K–$285K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48423375) |
-| Sales Executive, Northern CA | Altruist | Remote (NV) | $265K–$285K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48420722) |
-| ABA Onboarding Specialist | Behavioral Health Works | Remote | $20.00-24.00 per hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48408368) |
-| Product Manager - Advanced Detection (Remote) | CrowdStrike | Remote (MI) | $120,000 - $180,000 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48397057) |
-| Virtual Assistant - Tulsa | The Boutique COO | Remote (OK) | $22/hr | Contract | 2026-10-10 | [View](https://veritahire.com/j/48385922) |
-| Virtual Assistant - SLC | The Boutique COO | Remote (UT) | $22/hr | Contract | 2026-10-10 | [View](https://veritahire.com/j/48385920) |
-| Virtual Assistant - Omaha | The Boutique COO | Remote (NE) | $22/hr | Contract | 2026-10-10 | [View](https://veritahire.com/j/48385918) |
-| Clinical Research Associate Manager - Neurology (Remote) | Merck | Remote (NJ) | $142K–$224K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48379991) |
-| Field Technician - Western Idaho & Oregon Highlands | T-Mobile | Remote (ID) | $62K–$112K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48364051) |
-| Consumer Advisory Council Member | Stanford Medicine Children's Health | Remote (PALO ALTO, CA) | $30.14–$34.19/hr | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48360403) |
-| Tableau Developer, People Analytics (Contract) | PlayStation Global | Remote (UT) | $73–$109/hr | Contract | 2026-10-10 | [View](https://veritahire.com/j/48360300) |
-| Senior Game Application Security Analyst | PlayStation Global | Remote (CA) | $177K–$266K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48360297) |
-| Clinical Practice Manager (100% Remote) | Vori Health Inc. | Remote (Nashville, TN) | $31.25–$36.06/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48333105) |
-| Clinical Sales Account Manager - Chicago, IL or Milwaukee, WI | Diagnostic Cardiology At Baxter - U.s. | Remote (Milwaukee, WI) | $80,000 - $85,000 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48317654) |
-| Sr. .NET Developer | Aretum | Remote (VA) | $120,000-$150,000 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48305007) |
-| Senior Creative Program Manager | Samsara | Remote (WA) | $116K–$175K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48290865) |
-| Coder Primary Care Phys Pract | Banner Health | Remote (AZ) | $23.16 - $34.74 / hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48290398) |
-| Profee Coder Primary Care | Banner Health | Remote (AZ) | $23.16 - $34.74 / hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48290361) |
-| Workforce Insights & Strategy Program Director | Banner Health | Remote (AZ) | $44.65 - $74.41 / hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48289785) |
-| Construction Project Manager | Ambient | Remote (NY) | $120K–$170K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48283781) |
-| Tutor, AP World History / AP Human Geography (Remote, US Based) | TPAPT | Remote (NY) | $30-$35/hr | Contract | 2026-10-10 | [View](https://veritahire.com/j/48283539) |
-| Conceptual Reasoning Fellow | Anthropic | Remote (United States; San Francisco, CA) | $100K–$167K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48277968) |
-| Network Engineering 2 | Humana | Remote (CA) | $80,900 - $110,300 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48276277) |
-| Senior Network Engineer | Humana | Remote (CO) | $97,900 - $133,500 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48276252) |
-| Human Resources Manager | Appalachian Mountain Club | Remote (MA) | $66K–$88K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48276055) |
-| Public Policy Specialist - Energy and Environment (REMOTE role or Hybrid role based in Reston, Virginia) | ICF International | Remote (Reston, VA) | $61K–$104K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48268088) |
-| Accounts Receivable Specialist | Fortify Companies | Remote (GA) | $18-22 an hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48267708) |
-| Senior Director, Global Medical Affairs | Eli Lilly | Remote (IN) | $177K–$339K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48260345) |
-| Senior Advisor, Clinical Science (remote) | Eli Lilly | Remote (Indianapolis, IN) | $168K–$284K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48260338) |
-| Training Specialist II | Liberty Mutual Insurance | Remote (TX) | USD $67,000.00/Yr. | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48188502) |
-| Patient Support Nurse | Pharmacord | Remote (NC) | $50K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48186029) |
-| Care Coordinator | Pharmacord | Remote (TX) | $50K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48186027) |
-| GNC Engineer - Remote | Trinzic | Remote (Houston, TX) | $134K–$201K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48162960) |
-| DSN Scheduler -Fully Remote | Trinzic | Remote (Houston, TX) | $58K–$87K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48162847) |
-| Opto-Mechanical Designer - Remote | Trinzic | Remote (Houston, TX) | $82K–$123K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48162840) |
-| Sr. Product Manager - Payments | PracticeTek | Remote (CA) | $150K–$175K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48160617) |
-| Strategic Account Executive (Remote) | Vendavo | Remote (Atlanta, GA) | $140,000 a year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48160411) |
-| A/R Manager - Remote | Blue Ridge Cancer Care | Remote (Norfolk, VA) | $75K–$90K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48158053) |
-| Massachusetts Impaired Driving Instructor (MID) | Mental Health Association - Western MA | Remote (MA) | $25 - $30 per hour | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48136130) |
-| VP Operations | Rev Group, Inc | Remote (FL) | $206K–$344K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48134009) |
-| VP Client Partner | Dentsu (Americas careers) | Remote (GA) | $197K–$228K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48132267) |
-| Social Media Content Specialist - English - Remote in US | Dentsu (Americas careers) | Remote (NM) | $13/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48132266) |
-| Industry Strategist, Life Sciences Acceleration Hub | Salesforce | Remote (GA) | $191K–$321K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48131019) |
-| Customer Success Manager - State East & Local | Salesforce | Remote (NY) | $123K–$186K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48131013) |
-| Executive Assistant, VP, Engineering - AI (Remote) | Cisco | Remote (San Francisco, CA) | $99K–$132K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48129335) |
-| Services Manager | GE HealthCare | Remote (CO) | $108K–$162K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48129160) |
-| Service Director | GE HealthCare | Remote (CA) | $124K–$186K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48128875) |
-| Senior Full Stack AI Software Engineer (Java) | McKesson | Remote (Work at Home - Georgia, GA) | $126K–$210K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48112413) |
-| Director, Inside Sales & Partner Channel | Superior Plus Propane | Remote (Wayne, PA) | $130,000 - 140,000 a year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48111119) |
-| Senior Marketing Manager, Customer Value | Superior Plus Propane | Remote (Wayne, PA) | $117,000 - 147,000 a year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48111087) |
-| Composite Technician | Wabtec | Remote (TX) | $28.00 - $30.00 per hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48052742) |
-| Shop Planner | Wabtec | Remote (TX) | $28.00 - $30.00 per hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48052668) |
-| Executive Director, California College Guidance Initiative | Foundation For California Community Colleges | Remote (CA) | $220K–$240K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48030753) |
-| Program Officer, Mathematics Initiatives, California Education Learning Lab | Foundation For California Community Colleges | Remote (CA) | $95K–$120K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48030727) |
-| Key Account Manager - Central US | Bosch Group | Remote (Oakbrook Terrace, IL) | $105K–$120K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48025683) |
-| Senior Staff Mechanical Engineer | Carbon, Inc | Remote (NC) | $168K–$251K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48006867) |
-| Logistics Data Analyst - Clearance Required | Lmi | Remote (DC) | $52K–$88K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48004630) |
-| RN Case Manager | USAble Mutual Insurance Company | Remote (AR) | $73K–$93K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48000724) |
-| Customer Program Management Analyst 1 | Celestica | Remote (NH) | $61K–$81K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47985780) |
-| Sales Data Analyst (Remote) | Lakeshore Learning Materials, LLC | Remote (Carson, CA) | $22.35–$24.03/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47982021) |
-| Regional Business Manager (Turf Equipment & Irrigation) LAC - The Toro Company (Remote) | Toro | Remote (AZ) | $128K–$172K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981692) |
-| Analytics Engineer, Forecasting & Revenue Intelligence | Autodesk | Remote (NY) | $103K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981564) |
-| Senior Manager, Forecasting & Revenue Intelligence, Global Sales | Autodesk | Remote (NY) | $130K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981492) |
-| Product Support Representative | Autodesk | Remote (NY) | $49K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981460) |
-| Corporate Counsel, Property & Casualty Insurance (Remote) | Lenox Advisors | Remote (TX) | $126K–$190K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981358) |
-| Contractor And Industrial Representative -Major Projects - West Region | 3M | Remote (CA) | $146K–$178K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981276) |
-| Key Account Regional Distribution Leader (KAM RDL) | 3M | Remote (TX) | $114K–$139K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981275) |
-| Program Manager | Everforth ECS | Remote (Work from home, VA) | $125K–$140K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47979912) |
-| Associate Benefit Coordinator - Medical Only / Jurisdiction & Licensing: Virginia (Remote) | Sedgwick | Remote (VA) | $46K–$54K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47968028) |
-| Operations Supervisor | PNC Bank | Remote (PA) | $45K–$76K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47966821) |
-| Housekeeping Assistant II - Discharge EVS Team, Part-time, Evenings | Northwestern Memorial Healthcare NM Lake Forest Hospital ... | Remote (Chicago, IL) | $21.50/hr | Part-time | 2026-10-10 | [View](https://veritahire.com/j/47961395) |
-| Electrical Factory Inspector (Remote/Travel) | Eurofins | Remote (Detroit, MI) | $50K–$70K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47959891) |
-| Design and Construction Sr Manager (Remote with Travel) | CHEF'STORE | Remote (Plymouth, MN) | $105K–$160K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47952684) |
-| Contact Center Representative II (Hybrid: Waverly, IA) | Cuna Mutual Group | Remote (IA) | $47K–$63K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47950800) |
-| Patient Access Scheduler, Centralized Scheduling, FT, 8:30A-5P | Baptist Health | Remote (FL) | $17.62 - $22.38 / hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47949981) |
-| Intern, Scientific Publishing-Remote | Heart | Remote (Dallas, TX) | $23.00 per hour | Internship | 2026-10-10 | [View](https://veritahire.com/j/47949898) |
-| Charge Master Analyst- Remote | UnitedHealth Group | Remote (KY) | $72,800 - $130,000 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47942745) |
-| Charge Capture - Coding Analyst - Remote | UnitedHealth Group | Remote (KY) | $72,800 - $130,000 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47942735) |
-| Account Manager, Client Services - Directed Spend Payer - Remote | UnitedHealth Group | Remote (Eden Prairie, MN) | $72,800 - $130,000 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47942729) |
-| Veterinary Relationship Manager | Covetrus North America LLC | Remote (WI) | $73K–$104K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47941959) |
-| Software Engineer (Salesforce) (US REMOTE) | Motorola Solutions | Remote (CO) | $100K–$110K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934880) |
-| Federal Project Manager - US Remote | Motorola Solutions | Remote (MD) | $110K–$125K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934879) |
-| Senior Actuarial Analyst - Pricing | Kemper | Remote (SC) | $99K–$165K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934289) |
-| Technical Account Manager | Fiserv | Remote (IN) | $92K–$154K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933748) |
-| Client Solutions Consulting V | Fiserv | Remote (NJ) | $120K–$198K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933711) |
-| Director, Builder Sales - East | Cambria | Remote (MD) | $110K–$154K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933697) |
-| Executive Loan Officer (Texas) | Rocket Companies | Remote (TX) | $17.31 - $17.31/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933032) |
-| Executive Loan Officer (GA) | Rocket Companies | Remote (GA) | $17.31 - $17.31/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933028) |
-| Commercial Energy Auditor | Clearesult | Remote (LA) | $18.80–$28.30/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931052) |
-| C&I Program Manager | Clearesult | Remote (IL) | $91K–$136K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931050) |
-| Bilingual (Spanish/English) Transitions of Care Advanced Practice Provider (NP or PA) | Devoted Health | Remote (NM) | $120,000-$150,000/year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47924843) |
-| Hospice Field Admissions Specialist - Registered Nurse (RN)-PRN-REMOTE | Brighton Hospice | Remote (Eugene, OR) | $50.00-$53.00 Per Hour | Part-time | 2026-10-10 | [View](https://veritahire.com/j/47924026) |
-| Medical/Clinical Scientist - ONC - Bladder Late Phase (Sponsor-dedicated/Remote) | Syneos Health | Remote (MS) | $68K–$140K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47915372) |
-| Clinical/ Medical Scientist - Oncology - Prostate | Syneos Health | Remote (NY) | $68K–$115K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47915328) |
-| Manager Procurement Operations | BECU | Remote (AZ) | $131,400.00-$160,300.00 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47913297) |
-| Director, Global Corporate Accounts | Sigura | Remote (United States of America, DE) | $164K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47910507) |
-| Sr. Product Designer | Care.com | Remote (Austin, TX) | $125K–$135K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47905286) |
-| Sr Business Analyst Finance Systems(SAP FICO) | Siemens Healthineers | Remote (CA) | $135K–$186K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47889178) |
-| Senior AWS Cloud Engineer | Ingram Micro | Remote (CA) | $72,700.00 - $116,300.00 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47886961) |
-| Housing Case Manager Support Specialist (Washington County) | Immigrant and Refugee Community Organization | Remote (MD) | $48,600 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47882560) |
-| Principal Regulatory Affairs | Medline | Remote (IL) | $116K–$174K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47882327) |
-| Finance Analyst II | Centene | Remote (NC) | $56,200.00 - $101,000.00 per year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47882012) |
-| Specialist, Appeals & Grievances - Remote | Molina Healthcare | Remote | $16.40 - $31.97 Hourly | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47880186) |
-| Software Solutions Sales Executive (Remote Anywhere US) | Zebra Technologies | Remote (IL) | $113K–$169K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47879589) |
-| Senior Account Manager - Healthcare (Remote TX) | Zebra Technologies | Remote (TX) | $96K–$144K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47879588) |
-| AI Infrastructure DC Design Engineer II | Astreya | Remote (TN) | $85K–$134K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47879475) |
-| People Analytics Enablement Leader | General Motors | Remote (MI) | $179K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47875313) |
-| Sr. Compensation & Data Analyst (Remote) | Niagara | Remote (Corp-Offsite - Diamond Bar, CA) | $87,360.12 - $126,672.19 / Year | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47868964) |
-| Lead Technical Program Manager, ADM (Remote) | Entegris | Remote (CT) | $118K–$180K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47866075) |
-| Senior Specialist, Talent Acquisition Recruiter | Entegris | Remote (IL) | $60-$68 per hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47865926) |
-| Global Enablement Lead, LMS Sales Performance | LinkedIn | Remote (NY) | $117K–$190K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47861328) |
-| Principal Analyst, Public Cloud | Forrester | Remote (CA) | $141K–$229K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47858922) |
-| Principal Analyst, Enterprise Architecture | Forrester | Remote (NY) | $141K–$229K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47856404) |
-| Intern, Product Management, Connecting Clients, Channels and Fulfillment | Sephora | Remote (CA) | $30/hr | Internship | 2026-10-10 | [View](https://veritahire.com/j/47851016) |
-| Field Applications Engineer - FPGA specialist | Arrow Electronics | Remote (PA) | $84K–$148K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47847212) |
-| Field Sales Representative II - IP&E | Arrow Electronics | Remote (MI) | $84K–$125K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47847204) |
-| Microsoft AI Engineer - CCoE, NA | Arrow Electronics | Remote (NM) | $139K–$200K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47847199) |
-| Patient Account Resolution Specialist | Apria | Remote (TN) | $17.50 - $22.50 per hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47841987) |
-| Director, Product Strategy & Transformation | Eoriginal | Remote (CA) | $138K–$246K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47834424) |
-| Field Sales Executive -ftwilliam.com (Western United States) | Eoriginal | Remote (CO) | $57K–$98K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47834403) |
-| Manager, Tools & Outdoor Strategy | Sbdinc | Remote (CT) | $78K–$125K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47834197) |
-| Return Logistics Center Associate | Sbdinc | Remote (AZ) | $38K–$62K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47833947) |
-| Construction/Trades Sales Specialist - New York/New Jersey | Sbdinc | Remote (NY) | $101K–$162K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47832948) |
-| Pre-Certification Coordinator I (Remote) - Surgery | Washington University in St. Louis | Remote (WA) | $21.33 - $31.98 / Hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47831975) |
-| Senior Cost Accountant | Bradshaw Home | Remote (CA) | $90K–$110K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47831343) |
-| Commissioning Specialist | Plug Power | Remote (SC) | $27.50–$40/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48726082) |
-| Commissioning Specialist- Northwest | Plug Power | Remote (CT) | $27.50–$40/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48726035) |
-| Labcorp Genetics Customer Service Support Representative I- Remote | Labcorp | Remote (NC) | $17.75- $21.00 an hour | - | 2026-10-10 | [View](https://veritahire.com/j/48454547) |
-| Account Executive, Business Team Sales - Bel Air/Baltimore, MD | T-Mobile | Remote (MD) | $72K–$130K | - | 2026-10-10 | [View](https://veritahire.com/j/48364055) |
-| Account Executive, SMB Sales Portland OR | T-Mobile | Remote (OR) | $72K–$130K | - | 2026-10-10 | [View](https://veritahire.com/j/48364052) |
-| Senior Collections Representative | C.H. Robinson | Remote (MN) | $16.35–$34.46/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48031847) |
-| Technical Adoption Manager (Federal) | Broadcom Inc. | Remote (VA) | $155K–$248K | - | 2026-10-10 | [View](https://veritahire.com/j/47983515) |
-| Accounts Receivable Manager - Mid Atlantic - Cigna Healthcare - Remote | The Cigna Group | Remote (St. Louis, MO) | $111K | - | 2026-10-10 | [View](https://veritahire.com/j/47959206) |
-| Counsel - Commercial Transactions | The Cigna Group | Remote (PA) | $221K | - | 2026-10-10 | [View](https://veritahire.com/j/47959178) |
-| Cloud Security Architecture Lead | NVIDIA USA | Remote (TX) | $272K–$431K | - | 2026-10-10 | [View](https://veritahire.com/j/47906172) |
-| Software Engineer, SRE and Production Engineering - DGX Cloud | NVIDIA USA | Remote (SC) | $184K–$288K | - | 2026-10-10 | [View](https://veritahire.com/j/47906112) |
-| Payment Integrity Consultant | Centene | Remote (FL) | $70,100.00 - $126,200.00 per year | - | 2026-10-10 | [View](https://veritahire.com/j/47882019) |
-| Global Process Owner - Warehousing, Distribution & Supply Chain Security | Amgen | Remote (PR) | $134K–$181K | - | 2026-10-10 | [View](https://veritahire.com/j/47868462) |
-| Director, Data Science - Consumer and Developer Experience (Remote-Eligible) | Capital One | Remote (Riverwoods, IL) | $245K–$279K | - | 2026-10-10 | [View](https://veritahire.com/j/47867317) |
-| Director, AI Engineering (Remote - eligible) | Capital One | Remote (NY) | $245K–$279K | - | 2026-10-10 | [View](https://veritahire.com/j/47867051) |
-| Customer Service Representative | TechOp Solutions International | Remote (FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48813472) |
-| Senior Strategic Program Manager | Incora | Remote (TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48723411) |
-| Virtual Assistant | Jobs for Humanity | Remote (San Jose, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48628449) |
-| Traveling Emergency Veterinarian | BluePearl | Remote (TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48558405) |
-| Scientific Sales Specialist- Remote | Revvity | Remote (Pennsylvania&nbsp;/ Hartford, PA) | - | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48524799) |
-| Specialty Representative, Metabolic - Syracuse, NY | AbbVie | Remote (Syracuse, NY) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48470391) |
-| Developer Relations | Liquid AI | Remote (CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48442534) |
-| Strategic Business Development, Life Sciences | Liquid AI | Remote (MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48442531) |
-| Sr. Human Resources Business Partner | Vynca | Remote (San Mateo, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48431336) |
-| Channel Partner Manager, Accounting | Ramp | Remote (New York City, NY) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48431071) |
-| Recruiting Coordinator (18-month contract) | OpenTable | Remote (GA) | - | Contract | 2026-10-10 | [View](https://veritahire.com/j/48430655) |
-| Supply Chain Program Manager: Inbound | Hinge Health | Remote (San Francisco, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48419747) |
-| Senior Associate, Business Operations & Analytics | Jerry.ai | Remote (NY) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48419585) |
-| Associate, Business Operations & Analytics | Jerry.ai | Remote (NY) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48419583) |
-| Staff Analyst, G&A FP&A | Form Energy, Inc | Remote (Berkeley, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48410880) |
-| Business Development Representative | Aerovy | Remote (Atlanta, GA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48409714) |
-| PCS Assessor RN (Buncombe/Henderson/Polk/Rutherford/Madison/WNC) | Vaya Health | Remote (NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48300203) |
-| PCS Assessor RN (Rockingham/Forsyth/Surry/Stokes) | Vaya Health | Remote (NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48300202) |
-| PCS Assessor RN (Rowan/Forsyth/Iredell/Yadkin/Davie/Davidson) | Vaya Health | Remote (NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48300201) |
-| Senior Procurement Analyst (Remote - Puerto Rico) | RTX | Remote (PR) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48299664) |
-| Senior Field Service Engineer | ABB | Remote (MI) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48187829) |
-| Field Service Technician | ABB | Remote (IL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48187693) |
-| Associate Director / Director, Medical Information | Cognito Therapeutics | Remote (Cambridge, MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48172750) |
-| Electrical Engineer | Cognito Therapeutics | Remote (Cambridge, MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48172749) |
-| Mechanical Engineer | Cognito Therapeutics | Remote (Cambridge, MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48172748) |
-| Board Certified Behavior Analyst (BCBA) | Alpaca Health | Remote (CO) | - | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48166626) |
-| Mortgage Loan Processor (Remote with onsite requirements) | Newtown Savings Bank | Remote (Newtown, CT) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48158049) |
-| Software Engineer II - Java (Remote) | First Citizens Bank | Remote (Atlanta, GA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48157497) |
-| Senior DevSecOps Engineer (Remote NC, AZ, TX, GA) | First Citizens Bank | Remote (Raleigh, NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48157471) |
-| Dermatology Medical Assistant - EHR Software Trainer | Integrated Dermatology | Remote (Boca Raton, FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48055755) |
-| Sr. Accounts Payable Manager | Integrated Dermatology | Remote (Boca Raton, FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48055693) |
-| Clinical Applications Engineer | Intuitive | Remote (Columbus, OH) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48054550) |
-| Partner Technology Architect | ServiceNow | Remote (Vienna, VA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48052210) |
-| Partner Manager | ServiceNow | Remote (Austin, TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48052153) |
-| Market Research Lead, ChatGPT | OpenAI | Remote (San Francisco, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48012236) |
-| Sales Engineer (Midwest) | Tenna | Remote (MI), IN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48005616) |
-| Customer Account Manager (New England) | Tenna | Remote (RI), MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48005600) |
-| Retail Territory Manager (Travel) | Lakeshore Learning Materials, LLC | Remote (Dallas, TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47982024) |
-| Sr Cerner Implementation Project Manager - Remote | Community Health Systems | Remote (TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47980713) |
-| Billing Specialist II - Host Unbilled (REMOTE) | Community Health Systems | Remote (TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47980708) |
-| VP, Group Creative Director- Copy | EVERSANA | Remote (Chicago, IL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47979228) |
-| Senior Procurement Analyst (Remote - Puerto Rico) | Raytheon | Remote (san juan, PR) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47978217) |
-| Loan Support Analyst Senior - Covenant Administration - Midland | PNC Bank | Remote (KS) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47967052) |
-| Legal Counsel, Privacy | The Nielsen Company | Remote (NV) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47962212) |
-| Patient Access Specialist | Northwestern Memorial Healthcare NM Lake Forest Hospital ... | Remote (Chicago, IL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47961014) |
-| Payroll Specialist | Eurofins | Remote (Lancaster, PA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47959757) |
-| Dedicated Transportation Coordinator | Werner Enterprises | Remote (NE) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47941130) |
-| ATI MX REP | Air Transport Services Group, Inc. | Remote (OR) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47939859) |
-| Field Sales Representative - Eastern Washington | AAUS FMC Corporation | Remote (WA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47936423) |
-| Notice of Admission - Remote | Ochsner Health | Remote (LA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47936273) |
-| LMS Transition Lead | MSX International | Remote (Troy, MI) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934967) |
-| Curriculum Developer (Remote, USA) | Cielo Projects | Remote (Boston, MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934964) |
-| Senior Inside Sales Account Manager | Kemper | Remote (TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934299) |
-| Business Development Manager | Broan-nutone | Remote (NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47934150) |
-| Strategic Client Consultant I - Major Markets | NC Health Affiliates LLC DBA Blue Cross NC | Remote (NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933744) |
-| Sales Executive, Plastics | Fiserv | Remote (TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47933715) |
-| Underwriting Analyst | CRC | Remote (TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931291) |
-| Underwriting Team Leader | CRC | Remote (MA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931288) |
-| Market Carrier Engagement Manager | CRC | Remote (AL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931287) |
-| Sr. Systems Engineer | By Light Professional It Services | Remote (FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931277) |
-| Systems Engineer | By Light Professional It Services | Remote (FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47931276) |
-| Senior Manager, Paid Media (Remote) | Alliance Animal Health | Remote (Charlotte, NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47913480) |
-| Senior Business Development Manager | Circle Logistics | Remote (OR) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47912876) |
-| Outpatient Coding Specialist - Remote | Broward Health | Remote (Fort Lauderdale, FL) | - | Part-time | 2026-10-10 | [View](https://veritahire.com/j/47907677) |
-| Client Services Specialist I | Inductive Automation LLC | Remote (Folsom, CA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47881166) |
-| Business Operations & AI Enablement Manager | Bridgepoint Consulting | Remote (Austin, TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47880737) |
-| EverPro - Senior Manager, Growth Marketing (Remote, US) | Evercommerce | Remote (Denver, CO) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47878957) |
-| Revenue Cycle Project Manager (PMP cert preferred) - REMOTE | Vanderbilt University Medical Center | Remote (Nashville, TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47870811) |
-| Senior Coding Specialist (Trauma Surgery Coding exp required) - REMOTE | Vanderbilt University Medical Center | Remote (TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47870807) |
-| Lead Clinical Documentation Consultant, VMG Coding (Coding certification required) - REMOTE | Vanderbilt University Medical Center | Remote (Nashville, TN) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47870804) |
-| Project Scheduler (Remote Opportunity) | Vetsez | Remote (FL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47865108) |
-| Project Manager (Remote Opportunity) | Vetsez | Remote (TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47865107) |
-| Site Civil Engineer, Power Delivery | AECOM | Remote (Charlotte, NC) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47850617) |
-| Senior Structural Engineer, Data Centers - Remote (U.S.) | AECOM | Remote (Arlington, VA) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47850610) |
-| Deputy Design Manager I, Data Centers - Remote (U.S.) | AECOM | Remote (Chicago, IL) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47850603) |
-| Lead Sr. Project Manager-Industrial Facility Construction | Turner Townsend | Remote (Dallas, TX) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47845695) |
-| Equipment Service Technician - Hartford/New Haven, CT area | Henry Schein | Remote (CT) | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47841535) |
-| Medical Business Specialist - Physician Administration | Munson Healthcare | Remote (MI) | - | Part-time | 2026-10-10 | [View](https://veritahire.com/j/47835205) |
-| Regional Performance Marketing Manager - Automotive / Multi-Location Retail | Kunes Auto and Rv Group | Remote (WI) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48659136) |
-| PR Senior Account Manager - Luxury Travel & Lifestyle | Mmgy Global | Remote (KY) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48629759) |
-| Senior Quality Assurance Engineer | BusRight | Remote (NY) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48309884) |
-| Financial Analyst I | Mri Living | Remote (AR) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48170954) |
-| MSL Cardiology | GE HealthCare | Remote (KS) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48129189) |
-| Billing Specialist I | Md West One | Remote (NE) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47986794) |
-| Solution Engineer - ValueOps | Broadcom Inc. | Remote (NJ) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47983506) |
-| Bilingual Spanish RN Case Manager / Medicare Special Needs Program (SNP) / Remote / Active California RN License Required (Non-Compact) | Alignment Health | Remote (PA) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47979407) |
-| Account Management Director- Remote | Confluent Medical Technologies | Remote (CA) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47979235) |
-| Inside Sales Representative | Zhone Technologies | Remote (TX) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47979134) |
-| Sales Executive Merchant Regional (NC, SC, FL, GA, AL) | Global Payments | Remote (NC) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47937071) |
-| Sales Executive | Kemper | Remote (TX) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47934291) |
-| Software Engineer II | By Light Professional It Services | Remote (FL) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47931275) |
-| Hospice Billing Specialist (Remote) | VitalCaring Group | Remote (Dallas, TX) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47923863) |
-| Inpatient Coding Specialist - Remote | Broward Health | Remote (Fort Lauderdale, FL) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47907660) |
-| Regional HR Business Partner | Core & Main | Remote (GA) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47892943) |
-| Patient Services Specialist - Remote | Providence Health & Services | Remote (Renton, WA) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47843883) |
-| Client Success Director | Aspirion | Remote (OH) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47837384) |
-| Program Officer - Grants & Reporting Compliance | Cwsglobal | Remote (NY) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47831877) |
+| Retail Merchandising Specialist - Remote - | Cencora | Remote (CA) | $52K–$82K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51121052) |
+| Director Commercial Compliance | Cencora | Remote (PA) | $119K–$187K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51121045) |
+| Client Executive, GTS | Gartner | Remote (NY) | $144K–$184K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51118352) |
+| Sr Director Analyst, Data Management Platforms | Gartner | Remote (TX) | $172K–$202K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51118350) |
+| Business Process & Risk Transformation Lead | TD | Remote (NJ) | $149K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51118053) |
+| Account Executive Digital Sales | RR Donnelley | Remote (Chicago, IL) | $50,000 to $150,000 / year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51117813) |
+| Senior Digital Account Executive | RR Donnelley | Remote (Chicago, IL) | $50,000 to $150,000 / year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51117807) |
+| Profitability Manager - Labels and Packaging Platform | RR Donnelley | Remote (Warrenville, IL) | $68,500 to $106,900 / year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51117805) |
+| Territory Manager - Alabama South | Tandem Diabetes Care | Remote (AL) | $91,890 to $112,310 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51113562) |
+| Associate Manager, Clinical Quality (Prior Authorization)- Remote | Gainwell Technologies | Remote (FL) | $71,500.00 - $102,100.00 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51112075) |
+| Lead, Database Administrator | Mastercard | Remote (MD) | $122K–$207K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51111895) |
+| Senior Program Manager | Endeavor / WME (Beverly Hills) | Remote (CA) | $131,250 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51106644) |
+| GU Field Based Marketing Director - Key Customer Team (Remote North East - NY, MA & CT) | Exelixis | Remote (CA) | $204,500 - $290,500 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51106576) |
+| Sr. Data Analyst | Coderabbit | Remote (San Francisco, CA) | $170K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105383) |
+| Staff GTM Systems Engineer | Coderabbit | Remote (San Francisco, CA) | $210K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105382) |
+| Mechanical Engineering Manager - Material Handling Equipment (MHE) | KPI Solutions | Remote (GA) | $140K–$155K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104727) |
+| Director, Customer Development | Rowan Digital Infrastructure | Remote (Denver, CO) | $169K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104701) |
+| Solutions Engineer, Sales & Partnerships | Tapcart Inc | Remote (Santa Monica, CA) | $150–$180K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104688) |
+| Senior Principal Engineer, Docker and Ecosystem | Docker | Remote (Seattle, WA) | $219K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104501) |
+| Start Your Own Practice / Nurse Practitioner / Massachusetts / Fall 2026 | Kinsteadhealth | Remote (Boston, MA) | $300,000 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104448) |
+| Start Your Own Practice / Nurse Practitioner / Maryland / Fall 2026 | Kinsteadhealth | Remote (Baltimore, MD) | $250,000 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104447) |
+| Start Your Own Practice / Nurse Practitioner / Connecticut / Fall 2026 | Kinsteadhealth | Remote (New Haven, CT) | $250,000 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104446) |
+| Telehealth Physical Therapist (PT) - Remote PRN | Cascadia Healthcare | Remote (OR) | $60-$65/hour | Part-time | 2026-10-13 | [View](https://veritahire.com/j/51103701) |
+| 21GRAMS- Senior Copywriter | Real Chemistry | Remote (MA) | $95K–$110K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51101995) |
+| 21GRAMS- Senior Art Director | Real Chemistry | Remote (MA) | $95K–$110K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51101992) |
+| ML Engineer, Behavior Planning | Aurora | Remote (Mountain View, CA) | $139,000 - $223,000 per Year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100685) |
+| Enterprise Sales Leader - Sports Media Entertainment | Qualtrics | Remote (KS) | $270K–$453K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100671) |
+| Enterprise Sales 3 - Providers (Central) | Qualtrics | Remote (KS) | $105K–$128K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100652) |
+| Enterprise Sales 1 - Providers (Central) | Qualtrics | Remote (KS) | $94K–$114K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100623) |
+| Strategic Account Executive | Ping Identity | Remote (GA) | $150K–$165K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51099929) |
+| Staff Software Engineer, Enterprise Product | Decagon | Remote (San Francisco, CA) | $200K–$400K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51099836) |
+| Sr. Contracts Manager - Renewable Energy | SB Energy | Remote (Redwood City, CA) | $160K–$190K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51097825) |
+| Associate Manager, Clinical Claims | Ro | Remote (NY) | $109K–$136K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51097445) |
+| Strategic Sourcing Manager | Arrowhead Engineered Products | Remote (Portland, TN) | $116K–$183K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51096709) |
+| Account Executive | Automox | Remote (CO - Tampa, FL) | $180K–$200K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51093233) |
+| Compliance Specialist | Eating Recovery Center | Remote (CO) | $31.30–$39.13/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51090213) |
+| Talent Acquisition Specialist | Behavioral Health Works | Remote | $27/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51087921) |
+| Oncology Field Medical Director, Thoracic (non-MD) | Pfizer | Remote (IN) | $177K–$294K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51079343) |
+| Cardiovascular Specialist, Health and Science Professional - Hartford W, CT | Pfizer | Remote (CT) | $76K–$200K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51079336) |
+| Vaccines Specialist, Health and Science Professional - Philadelphia S, PA | Pfizer | Remote (PA) | $76K–$200K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51079331) |
+| Sr. Manager, Enterprise Revenue Architect | Gong.io | Remote (NY) | $181K–$239K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51076122) |
+| Sr. Electronic DFMEA Engineer | ALTEN Technology USA | Remote (CA) | $110K–$120K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51075868) |
+| Manager , Customer Sales (Remote) | CrowdStrike | Remote (TX) | $74,000 - $115,000 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51072453) |
+| GIS Developer | CivilGrid | Remote (Kansas City, MO) | $100K–$117K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51071259) |
+| Recruiter | Breakthrough T1D | Remote (CA) | $76K–$92K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51067361) |
+| Senior Sales Engineer, Majors - Colorado | Zscaler | Remote | $155K–$221K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51064211) |
+| Director of Audience - Remote | Bh Media Group | Remote (Davenport, IA) | $110K–$130K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51061023) |
+| Virology (HIV) Regional Medical Scientific Director (MSL) - New York Boroughs and Upstate New York - REMOTE | Merck | Remote (NY) | $191K–$300K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51058478) |
+| Actuarial Intern | Sanford Health | Remote (WI) | $16.50/hr | Internship | 2026-10-13 | [View](https://veritahire.com/j/51057856) |
+| RN Patient Educator - Home & Community Based Services - FT Varying | Sanford Health | Remote (KS) | $29.50–$44.50/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51057810) |
+| Manager, SMB Sales - Cincinnati, OH | T-Mobile | Remote (OH) | $126K–$228K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51052591) |
+| Sr. Applications/Solution Consultant - Healthcare - Remote | Honeywell | Remote (Independence, OH) | $113K–$141K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51048736) |
+| Healthcare Management Consultant (Remote) - Indianapolis Health | Milliman | Remote (Indianapolis, IN) | $118K–$223K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51040346) |
+| Associate Software Engineer | Highmark Health | Remote (ME) | $68K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51023226) |
+| Implementation Specialist (Remote) | First American | Remote (CA) | $85,000.00 - $113,300.00 Annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51020040) |
+| Principal Engineer - Agentic Security Operations (remote) | First American | Remote (CA) | $171K–$228K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51020035) |
+| Engineering Manager - Data Enablement | Thrivent | Remote (MN) | $139,455.00 - $188,676.00 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51020017) |
+| IT Data Center Engineer | Qualcomm | Remote | $34.95–$52.45/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51010876) |
+| Inside Broker | Rt Environmental & Construction Professional | Remote (NY) | $80,000.00 - $100,000.00 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50968584) |
+| Commercial Director - West | Celsius | Remote (CA) | $140K–$175K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966768) |
+| Commercial Director - East | Celsius | Remote (FL) | $140K–$175K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966762) |
+| Commercial Director - Central | Celsius | Remote (TX) | $140K–$175K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966761) |
+| PT- e-Live Verification Phone Agent- Remote | U-Haul | Remote (Phoenix, AZ) | $16/hour | Part-time | 2026-10-13 | [View](https://veritahire.com/j/50965999) |
+| Producer | Brown & Brown | Remote (IN) | $50K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50959552) |
+| Seasonal Senior Claims Auditor/Consultant | Brown & Brown | Remote (PA) | $65.00 - $65.00 Hourly | Part-time | 2026-10-13 | [View](https://veritahire.com/j/50959543) |
+| Sr. Mgr Procurement | RTX | Remote (AZ) | $132K–$252K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50948021) |
+| Prin Specialist, Procurement | RTX | Remote (TX) | $87K–$165K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50947985) |
+| Senior Product Owner - Supply Chain Systems | RTX | Remote (VA) | $108K–$204K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50947984) |
+| Administrator In Training | PACS | Remote (CA) | $70K–$100K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50936132) |
+| Coding Coordinator III (Remote) | ChristianaCare | Remote (Elkton, MD) | $30.34–$48.55/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50916055) |
+| Call Center Representative - Remote | Trinity Health | Remote (Rensselaer, NY) | $18.50–$23.90/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50897310) |
+| Credentialing Coordinator, Remote | Trinity Health | Remote (Livonia, MI) | $21.95–$32.92/hr | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50895791) |
+| Account Manager of Valet Operations - Dallas Hospitality | Towne Park | Remote (TX) | $62K–$72K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50888944) |
+| Patient Care Representative - Remote | Elara Caring | Remote (Dallas, TX) | $17.00-$19.00 hourly | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50883846) |
+| Director - Client Growth Partner (Retail & CPG) | Nagarro | Remote (NYC, NY) | $250K–$360K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50883060) |
+| Associate Practice Optimization Partner | Ballad Health | Remote (OH) | $57,400.00 - $86,100.00 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50879350) |
+| Hospice Veterinarian / Your Set The Hours / No Non-Compete / Severna Park, MD | Heartstrings Pet Hospice | Remote (MD) | $145K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50876229) |
+| Hospice Veterinarian / Your Set The Hours / No Non-Compete / Perry Hall, MD | Heartstrings Pet Hospice | Remote (MD) | $145K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50876192) |
+| Hospice Veterinarian / Your Set The Hours / No Non-Compete / Ellicott City, MD | Heartstrings Pet Hospice | Remote (MD) | $145K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50876137) |
+| Regional Pharmacy Operations Supervisor | Florida Cancer Specialists & Research Institute | Remote (FL) | $100K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50873720) |
+| Retail Execution Specialist - Pittsburgh, PA | The Coca-Cola Company | Remote (PA) | $69K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872885) |
+| Retail Execution Specialist - Phoenix, AZ | The Coca-Cola Company | Remote (AZ) | $69K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872882) |
+| Retail Execution Specialist - Houston, TX | The Coca-Cola Company | Remote (TX) | $69K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872876) |
+| Provider Contracting Executive | Humana | Remote (MS) | $94,900 - $130,500 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872221) |
+| Lead Agile Coach | Humana | Remote (KY) | $126,300 - $173,700 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872199) |
+| Care Management Support Assistant | Humana | Remote (IL) | $42,900 - $54,300 per year | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872115) |
+| Manager Last Mile Operations | RXO | Remote (MD) | $70,000-$80,000 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50872017) |
+| Senior Verifications Specialist | Omni-Invictus LLC dba Array | Remote (TX) | $18.00 - $21.00 an hour | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50854992) |
+| Data Engineer (Python) - Remote USA | ICF International | Remote (Reston, VA) | $81K–$168K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50854388) |
+| Senior Databricks Platform Engineer (Remote US) | ICF International | Remote (Reston, VA) | $99K–$203K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50854267) |
+| Strategic Enterprise Account Executive, Healthcare | Databricks | Remote (CO) | $272K–$374K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50851040) |
+| Sr. Staff Security Software Engineer - Agentic Security Engineering | Databricks | Remote (CA) | $229K–$314K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50850995) |
+| Sr. Security Engineer, Enterprise Security | Databricks | Remote (CA) | $168K–$231K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50850917) |
+| Senior Global Marketing Manager (Molecular) | Thermo Fisher Scientific | Remote (LA) | $129K–$194K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50847082) |
+| Principal Managing Partner | Workday | Remote (WI) | $157K–$235K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50840266) |
+| Workday Principal Solution Architect | Sentara Health | Remote (Norfolk, VA) | $153,670.40 - $228,009.60 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50831632) |
+| Senior Configuration Analyst - Remote | Sentara Health | Remote (Richmond, VA) | $100,817.60 - $149,656.00 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50831550) |
+| Registered Nurse - Physician Practice | Sentara Health | Remote (Virginia Beach, VA) | $38.01 - $55.42 hourly | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50831488) |
+| Scheduling Specialist, Associate | UPMC | Remote (Pittsburgh, PA) | $ 19.8-30.4 USD | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50819257) |
+| Mobile Professional Care Manager - Beaver & Lawrence Counties | UPMC | Remote (Pittsburgh, PA) | $ 29.29-48.21 USD | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50819052) |
+| Lost Time Claims Specialist II (FL & GA) | UPMC | Remote (Pittsburgh, PA) | $ 27.89-48.21 USD | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50818887) |
+| Small Commercial State Product Leader | Liberty Mutual Insurance | Remote (TX) | USD $179,000.00/Yr. | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50811526) |
+| Project Manager, Community Veterinary Medicine Project | San Francisco Spca | Remote (CA) | $120K | Part-time | 2026-10-13 | [View](https://veritahire.com/j/50808940) |
+| Senior Field Service Technician | ABB | Remote (TX) | $133,280 annually | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50808241) |
+| Patient Support Nurse | Pharmacord | Remote (FL) | $50K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50806326) |
+| Care Coordinator | Pharmacord | Remote (IN) | $50K | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50806323) |
+| Named, Corporate Account Manager (Hybrid) | CrowdStrike | Remote (CO) | $29 - $46 per hour | - | 2026-10-13 | [View](https://veritahire.com/j/51072457) |
+| Program Manager, Talent Management - Employee Experience | Breakthrough T1D | Remote (CA) | $90K–$115K | - | 2026-10-13 | [View](https://veritahire.com/j/51067362) |
+| Account Executive, Business Sales Tri-Cities WA | T-Mobile | Remote (WA) | $72K–$130K | - | 2026-10-13 | [View](https://veritahire.com/j/51052576) |
+| Account Executive (Toledo, OH) | T-Mobile | Remote (OH) | $72K–$130K | - | 2026-10-13 | [View](https://veritahire.com/j/51052500) |
+| Director, Experiential Ops & Production | Laundry Service | Remote (AL) | $105/hr | - | 2026-10-13 | [View](https://veritahire.com/j/51045589) |
+| Vice President, Field Sales | Aspen Dental | Remote (CA) | $175/hr | - | 2026-10-13 | [View](https://veritahire.com/j/50968610) |
+| ALTCS Case Manager | Banner Health | Remote (AZ) | $28.28 - $47.13 / hour | - | 2026-10-13 | [View](https://veritahire.com/j/50915694) |
+| Scheduling Specialist Associate | Ballad Health | Remote (MN) | $20.00-25.00/hour | - | 2026-10-13 | [View](https://veritahire.com/j/50879516) |
+| Denials Specialist | Ballad Health | Remote (CT) | $ 18.65 to $25.00 / hr | - | 2026-10-13 | [View](https://veritahire.com/j/50879466) |
+| Billing Research Processor II | Musc Health | Remote (SC) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51125492) |
+| Collections and Vendor Analyst-2 | Musc Health | Remote (SC) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51125482) |
+| PB Denials Coder 1-5 | Musc Health | Remote (SC) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51125479) |
+| Specialty Representative, Migraine - Zionsville, IN/Carmel, IN | AbbVie | Remote (Carmel, IN) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51122897) |
+| Specialty Representative, Parkinson's Disease - East Bay/Sacramento/Reno, CA | AbbVie | Remote (Oakland, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51122891) |
+| Field Reimbursement Manager - Parkinson's | AbbVie | Remote (Denver, CO) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51122890) |
+| Manager Training Business Development, Marketing & Operations (India) | Ampp: Association For Materials Protection and Performance | Remote (TX) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51113134) |
+| Part-Time Associate Attorney | Blitt & Gaines Law Offices | Remote (AR) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/51112711) |
+| IT Systems Engineer | Temporal Technologies | Remote (San Francisco, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51106410) |
+| Senior Software Security Engineer | Fieldguide | Remote (San Francisco, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105455) |
+| Director of Clinical | Videa | Remote (Boston, MA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105452) |
+| Advisory Operations Manager | Savvy Wealth | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105426) |
+| Customer Success Manager | Flooid | Remote (OH) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105409) |
+| Enrollment Medical Assistant | Vynca | Remote (San Mateo, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105264) |
+| People Operations Coordinator | Vynca | Remote (San Mateo, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51105263) |
+| Manager, Account Manager / Growth | Ramp | Remote (New York City, NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104515) |
+| Manager, Account Executive / Enterprise | Ramp | Remote (New York City, NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104514) |
+| Loss Control Consultant | Leavitt Group | Remote (Albuquerque, NM) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104468) |
+| Territory Manager - New Jersey | Nabi | Remote (Newark, NJ) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104357) |
+| Territory Manager - St. Louis, MO | Nabi | Remote (St. Louis, MO) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104356) |
+| Territory Manager - Hartford-New Haven, CT | Nabi | Remote (Hartford, CT) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51104355) |
+| Accounts Receivable Specialist | Cascadia Healthcare | Remote (OR) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51103697) |
+| Staff Embedded Software Engineer, Infotainment Connectivity | Rivian and Volkswagen Group Technologies | Remote (Palo Alto, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51101884) |
+| Sr. Embedded Software Engineer, RTOS | Rivian and Volkswagen Group Technologies | Remote (Palo Alto, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51101880) |
+| Senior Staff Software Engineer, AI Platform | Rivian and Volkswagen Group Technologies | Remote (Palo Alto, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51101879) |
+| Senior Forward Deployed Engineer | Axion | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100985) |
+| Remote Therapist - Older Adults / LCSW / LMFT / LPC / Virginia / Telehealth | Sailor Health | Remote (VA) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/51100757) |
+| Remote Therapist - Older Adults / LCSW / LMFT / LPC / Pennsylvania / Telehealth | Sailor Health | Remote (PA) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/51100755) |
+| Remote Therapist - Older Adults / LCSW / LMFT / LPC / Arizona / Telehealth | Sailor Health | Remote (AZ) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/51100754) |
+| Staff Software Engineer - Auth & Workflow Services | Delinea | Remote (Redwood City, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100689) |
+| Talent Acquisition Operations Manager | Delinea | Remote (Redwood City, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100688) |
+| Staff Software Engineer - AI Discovery & Posture | Delinea | Remote (Redwood City, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51100687) |
+| Director, Business Development & Partnerships (Remote) | Jerry.ai | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51097861) |
+| Community Manager | Jerry.ai | Remote (Palo Alto, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51097854) |
+| Project Manager | Barnes & Thornburg LLP | Remote (Columbus, OH) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51097696) |
+| Enterprise Implementation Consultant | MaintainX (An Autodesk Company) | Remote (San Francisco, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51096825) |
+| Process & Change II Manager (RPO Client Delivery) | Cielo | Remote (Wauwatosa, WI) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51090888) |
+| Recruiter | Cielo | Remote (Wauwatosa, WI) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51090887) |
+| Senior Manager, Learning and Development | The Voleon Group | Remote (Berkeley, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51090246) |
+| Product & Technology Communications Manager | Cohere | Remote (San Francisco, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51085328) |
+| GTM Engineer - Marketing | Clay Labs | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51085275) |
+| Head of Field Marketing | Clay Labs | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51085274) |
+| Senior Director of Account Management | CodaMetrix | Remote (Boston, MA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51084902) |
+| Contact Center Advocate I | Henry Ford Health | Remote (Detroit, MI) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51076111) |
+| Actuarial College Intern (Summer 2027) - Health Alliance Plan | Henry Ford Health | Remote (Troy, MI) | - | Internship | 2026-10-13 | [View](https://veritahire.com/j/51076092) |
+| LLM Platform Engineer | AllSpice | Remote (Boston, MA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51076023) |
+| VP, Finance | Branch Financial, LLC | Remote (Columbus, OH) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51071436) |
+| Regional Sales Manager- Team Leader | Gen Digital Inc | Remote (AZ) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51070892) |
+| Senior Solutions Engineer | Gen Digital Inc | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51070890) |
+| Sales Director, Executive Benefits | Gen Digital Inc | Remote (AZ) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51070888) |
+| Solution Architect | M-Files | Remote (ID) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51065617) |
+| Summer 2027 Sales Support Undergraduate Intern | Highmark Health | Remote (ME) | - | Internship | 2026-10-13 | [View](https://veritahire.com/j/51023136) |
+| Summer 2027 IT Audit Undergraduate Intern | Highmark Health | Remote (ME) | - | Internship | 2026-10-13 | [View](https://veritahire.com/j/51023085) |
+| Marketing Intern - AI Content Strategy/Operations | Carlisle Construction Materials | Remote (Carlisle, PA) | - | Internship | 2026-10-13 | [View](https://veritahire.com/j/51015938) |
+| Licensed Commercial Refrigeration Construction Foreman - Connecticut | Smart Care | Remote (CT) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51011175) |
+| Licensed Commercial Refrigeration Construction Foreman | Smart Care | Remote (MA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/51011171) |
+| Reinsurance Underwriting Director | Rt Environmental & Construction Professional | Remote (CT) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50968585) |
+| Engineering Manager - Snowpark | Snowflake | Remote (Bellevue, WA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966043) |
+| Technical Program Manager | Snowflake | Remote (NY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966036) |
+| AI Associate, Office of the CEO | Snowflake | Remote (Menlo Park, CA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50966012) |
+| Account Manager - Builder Channel - Carolinas (Remote) | Samsung Semiconductor | Remote (NC) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50891431) |
+| Administrative Assistant | Ssm Health | Remote (WI) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50882225) |
+| Director of FP&A & Strategic Finance (REQ915) | Spartech | Remote (MO) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50860922) |
+| Director, Public Relations | Travel + Leisure Co. | Remote (FL) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50834097) |
+| Child Abuse Pediatrician - (Remote or Part Time Available) | Norton Healthcare | Remote (Louisville, KY) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/50821488) |
+| Clinical Application Systems Analyst Epic Beaker - Senior, IS Patient Services, Days, Fully Remote | Norton Healthcare | Remote (Louisville, KY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50821259) |
+| Manager, I.S. Operations, Fully Remote | Norton Healthcare | Remote (Louisville, KY) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50820961) |
+| Senior Product Manager - Digital Self Service (Remote) | Progressive Leasing | Remote (UT) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50820400) |
+| Legal Assistant | Segal Mccambridge | Remote (PA) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50812343) |
+| Territory Sales Manager - Ohio | ABB | Remote (OH) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50808597) |
+| SAP Business Process Owner | ABB | Remote (TX) | - | Full-time | 2026-10-13 | [View](https://veritahire.com/j/50808174) |
+| Director, Wildland Fire Environment Innovations Program (Part Time) (Remote) | University of Arizona | Remote (AZ) | - | Part-time | 2026-10-13 | [View](https://veritahire.com/j/50805225) |
+| Senior Data Engineer | Bitful Consulting | Remote (FL) | - | Contract | 2026-10-13 | [View](https://veritahire.com/j/50805214) |
+| Associate Attorney | Blitt & Gaines Law Offices | Remote (AR) | - | - | 2026-10-13 | [View](https://veritahire.com/j/51112712) |
+| Senior/Lead CA Gen Engineer - Mainframe Modernization (Remote) | EPAM Systems | Remote (NY) | - | - | 2026-10-13 | [View](https://veritahire.com/j/51106784) |
+| Ohio / Family Nurse Practitioner / Telehealth Substance Use Disorder | Affect | Remote (OH) | - | - | 2026-10-13 | [View](https://veritahire.com/j/51105768) |
+| Physician Recruiter- California QME | Dane Street, LLC | Remote | - | - | 2026-10-13 | [View](https://veritahire.com/j/51071193) |
+| Inventory Associate | Telix Pharmaceuticals (AMER) | Remote (TX) | - | - | 2026-10-13 | [View](https://veritahire.com/j/51065465) |
+| Regional Business Director | Biocryst Pharmaceuticals, Inc. | Remote (RI) | - | - | 2026-10-13 | [View](https://veritahire.com/j/51012621) |
+| Coder - Pathology | University of Colorado Medicine | Remote (AURORA, CO) | - | - | 2026-10-13 | [View](https://veritahire.com/j/50946824) |
+| Inside Sales Rep - Remote | Lincare | Remote (Clearwater, FL) | - | - | 2026-10-13 | [View](https://veritahire.com/j/50904330) |
+| GP Appeals Analyst I | Horizon Blue Cross Blue Shield of New Jersey | Remote (Hopewell, NJ) | $63K–$84K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50804224) |
+| Network Contracting Account Specialist | Horizon Blue Cross Blue Shield of New Jersey | Remote (Newark, NJ) | $87K–$119K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50804222) |
+| Revenue Specialist I (Collections)- Remote | DaVita | Remote (Brentwood, TN) | $19.29 - $23.00 per hour | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50803631) |
+| Clinical Staffing Recruiter | Trusted, Inc | Remote (San Francisco, CA) | $66K–$72K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50795793) |
+| Copywriter - Contract | Curology | Remote (CA) | $40-$70/hour | Contract | 2026-10-12 | [View](https://veritahire.com/j/50795703) |
+| District Manager | Bagel Brands | Remote (IN) | $86K–$95K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50795008) |
+| Sr Systems Analyst | Health Care Service Corporation | Remote (CA) | $93K–$168K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50783160) |
+| Sr Divisional Strategy Consultant - Work From Home | Health Care Service Corporation | Remote (CA) | $70K–$126K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50783151) |
+| Experience Technical Architect, Innovation & Emerging Technologies | Dentsu (Americas careers) | Remote (GA) | $136K–$190K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50769675) |
+| Ambulatory Access Manager - Specialty Departments - Remote | VCU Health System | Remote (Richmond, VA) | $83K–$129K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50765898) |
+| Senior or Senior II Market Services Analyst (Remote Eligible) | Southwest Power Pool | Remote (Little Rock, AR) | $98K–$127K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50757124) |
+| Senior or Senior II Engineer - Market Services (Remote Eligible) | Southwest Power Pool | Remote (Little Rock, AR) | $108K–$123K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50757123) |
+| Services Sales Solutions Architect Senior Director | Salesforce | Remote (VA) | $218K–$365K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50757012) |
+| Product Release Marketing Manager | Salesforce | Remote (DC) | $117,400 - $177,600 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50757011) |
+| Chief of Staff, CRO | Salesforce | Remote (WA) | $164,000 - $261,500 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50757004) |
+| Software Engineer Technical Leader - Network Data Plane - Hypershield | Cisco | Remote | $214K–$310K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50755243) |
+| Oncology Account Manager | GE HealthCare | Remote (MA) | $154K–$230K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50724022) |
+| Analytics Manager, Marketplace | Collectors | Remote (CA) | $106K–$171K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50723804) |
+| Chief Information Officer | GE Aerospace | Remote (OH) | $275K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50721390) |
+| Channel Marketing Manager | Illinois Tool Works | Remote (WI) | $80K–$110K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50719198) |
+| Technical Architect - Infrastructure Platform & Digital Workplace | Grainger | Remote (IL) | $146K–$244K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50715479) |
+| Oncology Clinical Data Quality Lead | McKesson | Remote (TX) | $94K–$158K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50712387) |
+| Field Service Rep - Sacramento | McKesson | Remote (CA) | $75,200 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50712386) |
+| Director, SAP App Dev. & Innovation | NBCUniversal | Remote (NY) | $260,000 per year | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50690597) |
+| Business Development Representative (Armis/Veza) | ServiceNow | Remote (San Diego, CA) | $61K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50689848) |
+| Crewman | Wabtec | Remote (Jacksonville, FL) | $26-$30 hourly | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50687739) |
+| Workshop Sales Representative - Washington DC Area | Bosch Group | Remote (WA) | $85K–$100K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50686921) |
+| Senior Workday Analyst, HRIS | Foundation For California Community Colleges | Remote (CA) | $120K–$125K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50684132) |
+| Oncology Clinical Data Quality Lead | Ontada | Remote (TX) | $94K–$158K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50677367) |
+| Project Manager, Environmental Remediation | APTIM | Remote (NJ) | $140K–$170K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50672562) |
+| Inside Sales Account Representative (REMOTE) USABLUEBOOK | HD Supply | Remote (GA) | $19.62-$23.65 Hourly | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50671418) |
+| Chart Procurement Analyst | USAble Mutual Insurance Company | Remote (AR) | $48K–$62K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50669776) |
+| Senior Medical Writer, Promotional Review | Thermo Fisher Scientific | Remote (CA) | $115K–$125K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50661974) |
+| Senior Program Manager, Flow Growth | Autodesk | Remote (CO) | $102K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649151) |
+| Flow Studio Sales Representative | Autodesk | Remote (CO) | $98K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649148) |
+| Flow Senior Technical Sales Specialist | Autodesk | Remote (CO) | $155K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649147) |
+| Consumer Sales Strategy Manager (Remote) | Lakeshore Learning Materials, LLC | Remote (Carson, CA) | $62K–$75K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50648813) |
+| Sales Data Analyst (Remote) | Lakeshore Learning Materials, LLC | Remote (Carson, CA) | $22.35–$24.03/hr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50648810) |
+| Account Manager, Client Service - Remote | UnitedHealth Group | Remote (Eden Prairie, MN) | $72,800 - $130,000 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50615094) |
+| Senior Business Process Analyst - Correspondence Management and Development - Remote | UnitedHealth Group | Remote (Minnetonka, MN) | $72,800 to $130,000 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50615090) |
+| Senior Business Analyst - Remote | UnitedHealth Group | Remote (Eden Prairie, MN) | $72,800 - $130,000 annually | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50615075) |
+| Sr. Area Director Finance (Remote Region Remote) | CHEF'STORE | Remote (Ogden, UT) | $135K–$210K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50605725) |
+| Sr. Trial Attorney - Fully Remote (Upstate New York) | A01 Nationwide Mutual Insurance Co. | Remote (NY) | $138K–$243K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50604885) |
+| Manager Technology of Disaster Recovery, Technology and Digital, FT, 08:30A-5P | Baptist Health | Remote (FL) | $147633.00 - $191922.90 / year | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50604822) |
+| HIM Protected Health Info Specialist, Hybrid, Health Information Management, FT, 08A-4:30P | Baptist Health | Remote (FL) | $17.27 - $21.93 / hour | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50604772) |
+| Solutions Design Manager, Warehousing & Logistics | Iron Mountain | Remote (TN) | $142K–$189K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50602324) |
+| TeleHear Provider - Remote | Audibel | Remote (Eden Prairie, MN) | $70,070.00 - $94,500.00 / yr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50602266) |
+| Senior Manager, Underwriting | CVS Health | Remote (KY) | $68K–$183K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50597804) |
+| Senior Manager, Underwriting Unit Lead | CVS Health | Remote (KY) | $68K–$183K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50597789) |
+| RPh Operations Advisor - Med D | CVS Health | Remote (Work at Home, TX) | $50.48–$84.62/hr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50596540) |
+| System Engineer RF - Maryland, Delaware or Washington D.C. | Motorola Solutions | Remote (MD) | $90K–$105K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50584067) |
+| Senior SEO/GEO Strategist | Motorola Solutions | Remote (MA) | $85K–$95K | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50584053) |
+| Manager, Indirect Procurement Category | AdaptHealth | Remote (PA) | $90K–$120K | - | 2026-10-12 | [View](https://veritahire.com/j/50775618) |
+| Principal Manufacturing Systems Engineer (Remote or Hybrid) | Schwan's Home Delivery | Remote (Hopkins, MN) | $107K–$178K | - | 2026-10-12 | [View](https://veritahire.com/j/50685066) |
+| Customer Care Center Associate - REMOTE | OceanFirst Bank | Remote (Toms River, NJ) | $23.50 per hour | - | 2026-10-12 | [View](https://veritahire.com/j/50681977) |
+| Senior Director Federal Fuels Business Line | APTIM | Remote (HI) | $200K–$250K | - | 2026-10-12 | [View](https://veritahire.com/j/50672564) |
+| Federal Billing Coordinator | APTIM | Remote (LA) | $15.67–$20/hr | - | 2026-10-12 | [View](https://veritahire.com/j/50672514) |
+| Claims Specialist I | USAble Mutual Insurance Company | Remote (UT) | $19.77–$25.68/hr | - | 2026-10-12 | [View](https://veritahire.com/j/50669790) |
+| Senior Procurement Analyst (Remote - Puerto Rico) | Raytheon | Remote (san juan, PR) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50786206) |
+| Senior Analytics Engineer (Remote) | Raytheon | Remote (hartford, CT) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50784912) |
+| Head of Procurement | Benchling | Remote (San Francisco, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50781979) |
+| Software Engineer, Extensibility Platform | Benchling | Remote (San Francisco, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50781978) |
+| Ultrasound Dispatcher - REMOTE | Diagnostic Laboratories & Radiology | Remote (Carrollton, TX) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50758958) |
+| Product Analyst Intern (Part Time) | Valmont Industries | Remote (NE) | - | Internship | 2026-10-12 | [View](https://veritahire.com/j/50726913) |
+| Maintenance Supervisor | SoftBank Robotics America | Remote (TX) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50716321) |
+| Director of Research Site Partnership | McKesson | Remote (TN) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50712452) |
+| Superintendent | Greystar | Remote (MS) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50684176) |
+| Client Partner, Ads Solutions - Financial Services | OpenAI | Remote (NY) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50682486) |
+| Sales Development Representative (SDR) | UpGuard Inc | Remote (Los Angeles, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50677134) |
+| Strategic Finance Lead - GTM | Perplexity | Remote (San Francisco, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50676791) |
+| Sales Engineer (Texas) | Tenna | Remote | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50675493) |
+| Patient Access Representative - Remote | SoutheastHEALTH | Remote (Springfield, MO) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50660498) |
+| Sales Admin Assistant | Jobs for Humanity | Remote (Alexandria, VA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649213) |
+| Media Search Analyst - English (US) | Jobs for Humanity | Remote (California City, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649212) |
+| Entry Level Management Associate | Jobs for Humanity | Remote (San Diego, CA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50649211) |
+| Retail Territory Manager (Travel) | Lakeshore Learning Materials, LLC | Remote (Dallas, TX) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50648805) |
+| Copy Supervisor (Pharma Ad Agency Experience Required) | EVERSANA | Remote (Chicago, IL) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50626149) |
+| Associate Creative Director, Art (Pharma Ad Agency Experience Required) | EVERSANA | Remote (Chicago, IL) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50626115) |
+| VP, Group Creative Director- Copy (Pharma Ad Agency Experience Required) | EVERSANA | Remote (Chicago, IL) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50626070) |
+| Instructor - Public Relations Executive in Residence | Texas Tech University System | Remote (TX) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50618800) |
+| Business Development Manager - Drug Discovery, Southeast US Territory | Eurofins | Remote (Raleigh, NC) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50614944) |
+| Payroll Specialist | Eurofins | Remote (Lancaster, PA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50614942) |
+| Denials & Follow-up Rep-- Managed Medicare- Remote | Ochsner Health | Remote (LA) | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50591627) |
+| Travel Customer Service Representative - Fully Remote | Aisles & Abroad | Remote (Atlanta) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50803761) |
+| Travel Booking Specialist / Remote | Aisles & Abroad | Remote (NY) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50803760) |
+| Reservations Support Associate / Remote | Aisles & Abroad | Remote (Atlanta) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50803756) |
+| DTS Population Health Systems Analyst II - REMOTE | Yale New Haven Health | Remote (NEW HAVEN, CT) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50800398) |
+| Outpatient Senior Coder (Remote) | Yale New Haven Health | Remote (NEW HAVEN, CT) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50798062) |
+| Transitions of Care Pharmacist - Remote | Yale New Haven Health | Remote (Bridgeport, CT) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50797174) |
+| Systems/Technology Analyst - Financial Management System Consolidation Analysis & Roadmap | CSCI Consulting | Remote (IA) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50794505) |
+| Functional Analyst - Financial Management System Consolidation Analyst & Roadmap | CSCI Consulting | Remote (IA) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50794504) |
+| Intake Specialist | AdaptHealth | Remote (WI) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50775194) |
+| Biomedical Equipment Technician 3 | GE HealthCare | Remote (GA) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50724034) |
+| Biomedical Equipment Technician I | GE HealthCare | Remote (KY) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50724030) |
+| Work From Home / Cruise Reservations Specialist / Fully Remote | Destination | Remote (Boston, MA) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50711310) |
+| Vacation Planning Coordinator (Remote) | Destination | Remote (FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50711304) |
+| Vacation Coordinator (Remote) | Destination | Remote (NY) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50711301) |
+| Lead Enterprise Software Solution Consultant | Rockwell Automation | Remote (MI) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50708760) |
+| Enterprise Solution Architect Payments (Remote) | BankUnited | Remote (Miami Lakes, FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50673596) |
+| Construction Loan Admin (Remote) | BankUnited | Remote (Miami Lakes, FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50673579) |
+| Sr Financial Analyst (SRM) (Remote Option Available) | General Dynamics Ordnance and Tactical Systems | Remote (Niceville, FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50671370) |
+| Programs Sr Manager (SRM) (Remote Option Available) | General Dynamics Ordnance and Tactical Systems | Remote (Hampton, AR) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50671364) |
+| Healthcare Analyst Advisor | TRIMEDX | Remote (WI) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50648664) |
+| Scheduling Specialist - REMOTE | Community Health Systems | Remote (FL) | - | - | 2026-10-12 | [View](https://veritahire.com/j/50638578) |
 <!-- jobs:end -->
 
 ## Data and reuse
