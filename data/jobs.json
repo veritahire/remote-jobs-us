@@ -1,11 +1,143 @@
 {
  "list": "remote-jobs-us",
  "title": "Remote US jobs",
- "generated_at": "2026-11-01T05:50Z",
+ "generated_at": "2026-11-02T05:50Z",
  "count": 300,
  "source": "VeritaHire - live US jobs read straight from employers' own career sites, re-checked daily",
  "license": "CC BY 4.0 - credit \"VeritaHire (veritahire.com)\"",
  "jobs": [
+  {
+   "title": "Math Instructor- Remote",
+   "employer": "Team Georgia",
+   "location": "Remote (GA)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$50K–$55K",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 04:15",
+   "url": "https://veritahire.com/j/74804552"
+  },
+  {
+   "title": "VP Network Operations",
+   "employer": "Devoted Health",
+   "location": "Remote (NH)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$258K–$293K",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 04:03",
+   "url": "https://veritahire.com/j/74800421"
+  },
+  {
+   "title": "Actuary - Value-Based Care",
+   "employer": "Centene",
+   "location": "Remote (KY)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": "$107,700.00 - $199,300.00 per year",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 03:10",
+   "url": "https://veritahire.com/j/74786294"
+  },
+  {
+   "title": "Field Service Technician",
+   "employer": "Hobart Ground Power - Itw Gse Group",
+   "location": "Remote (CT)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": "$30-$39 per hour",
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 02:28",
+   "url": "https://veritahire.com/j/74776596"
+  },
+  {
+   "title": "Strategic Marketing Manager - Endosafe (REMOTE)",
+   "employer": "Charles River Laboratories",
+   "location": "Remote (MA)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 05:07",
+   "url": "https://veritahire.com/j/74824004"
+  },
+  {
+   "title": "Actuary - Valuation & Reserving",
+   "employer": "Centene",
+   "location": "Remote (KY)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 03:11",
+   "url": "https://veritahire.com/j/74786348"
+  },
+  {
+   "title": "VP, Sales",
+   "employer": "Verra Mobility",
+   "location": "Remote (AZ)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-02",
+   "last_confirmed": "2026-11-02 00:16",
+   "url": "https://veritahire.com/j/74609835"
+  },
+  {
+   "title": "Associate Director, Field Medical Affairs, Cutaneous Oncology (IN, KY, MI, OH and WV)",
+   "employer": "Regeneron Pharmaceuticals",
+   "location": "Remote (KY)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$176K–$287K",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 21:40",
+   "url": "https://veritahire.com/j/74463134"
+  },
+  {
+   "title": "Business Systems Manager - Salesforce (61668)",
+   "employer": "Core Health & Fitness",
+   "location": "Remote (WA)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$140,000.00 - $150,000.00 Salary/year",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 01:16",
+   "url": "https://veritahire.com/j/74001580"
+  },
+  {
+   "title": "Specialist Seller - Connected Maintenance - Public Sector",
+   "employer": "Samsara",
+   "location": "Remote (CA)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$350K",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 18:57",
+   "url": "https://veritahire.com/j/73623675"
+  },
+  {
+   "title": "Mid-Market Account Executive - Public Sector (TOLA)",
+   "employer": "Samsara",
+   "location": "Remote (LA)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20K–$250K",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 18:57",
+   "url": "https://veritahire.com/j/73623667"
+  },
+  {
+   "title": "Mid-Market Account Executive - Public Sector (Southeast)",
+   "employer": "Samsara",
+   "location": "Remote (DC)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20K–$250K",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 18:57",
+   "url": "https://veritahire.com/j/73623666"
+  },
   {
    "title": "Pharmacy Technician",
    "employer": "CVS Health",
@@ -14,19 +146,30 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17–$28.46/hr",
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 03:40",
+   "last_confirmed": "2026-11-01 16:52",
    "url": "https://veritahire.com/j/73538644"
   },
   {
-   "title": "Manager, Provider Network Performance",
+   "title": "Senior Director, AI Productivity & LCNC AI",
    "employer": "Centene",
-   "location": "Remote (GA)",
+   "location": "Remote (CA)",
    "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$87,700.00 - $157,800.00 per year",
+   "employment_type": null,
+   "pay_as_posted": "$171,900.00 - $326,900.00 per year",
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 00:54",
-   "url": "https://veritahire.com/j/73451961"
+   "last_confirmed": "2026-11-02 03:11",
+   "url": "https://veritahire.com/j/74061726"
+  },
+  {
+   "title": "Senior AI Tools Engineer, SRE Operations - GeForce NOW",
+   "employer": "NVIDIA USA",
+   "location": "Remote (CA)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": "$144K–$230K",
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:35",
+   "url": "https://veritahire.com/j/73651177"
   },
   {
    "title": "Plant Operator - (overnight) Center for Laboratory Medicine",
@@ -36,8 +179,41 @@
    "employment_type": null,
    "pay_as_posted": "$52.72–$84.36/hr",
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:47",
    "url": "https://veritahire.com/j/73619859"
+  },
+  {
+   "title": "Remote Optometrist",
+   "employer": "National Vision1",
+   "location": "Remote (Catonsville, MD)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-02 03:44",
+   "url": "https://veritahire.com/j/74081867"
+  },
+  {
+   "title": "Recruiting Operations Specialist",
+   "employer": "Baseten",
+   "location": "Remote (San Francisco, CA)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 20:51",
+   "url": "https://veritahire.com/j/73735838"
+  },
+  {
+   "title": "Talent Acquisition Brand Specialist",
+   "employer": "Franciscan Health",
+   "location": "Remote (Work From Home, IN)",
+   "remote": true,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:41",
+   "url": "https://veritahire.com/j/73661643"
   },
   {
    "title": "Imaging Service Engineer (Remote role based in Raleigh, NC)",
@@ -47,7 +223,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:47",
    "url": "https://veritahire.com/j/73620193"
   },
   {
@@ -58,7 +234,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:25",
+   "last_confirmed": "2026-11-01 18:35",
    "url": "https://veritahire.com/j/73611262"
   },
   {
@@ -69,8 +245,85 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 04:34",
+   "last_confirmed": "2026-11-01 17:44",
    "url": "https://veritahire.com/j/73573172"
+  },
+  {
+   "title": "Sales Manager - National Retail & B2B (HOA)",
+   "employer": "W.c. Bradley Co.",
+   "location": "Remote (GA)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:51",
+   "url": "https://veritahire.com/j/74382079"
+  },
+  {
+   "title": "Healthcare Sales - Remote",
+   "employer": "Careersus Teleperformance",
+   "location": "Remote (AZ)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 20:59",
+   "url": "https://veritahire.com/j/73741505"
+  },
+  {
+   "title": "Healthcare Customer Service Representative - Remote",
+   "employer": "Careersus Teleperformance",
+   "location": "Remote (AZ)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 20:59",
+   "url": "https://veritahire.com/j/73741504"
+  },
+  {
+   "title": "Customer Service Representative - Remote",
+   "employer": "Careersus Teleperformance",
+   "location": "Remote (AZ)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 20:59",
+   "url": "https://veritahire.com/j/73741500"
+  },
+  {
+   "title": "Virtual Hotel & Resort Coordinator (Remote)",
+   "employer": "Aisles & Abroad",
+   "location": "Remote (Washington DC)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:44",
+   "url": "https://veritahire.com/j/73672310"
+  },
+  {
+   "title": "Travel Services Coordinator (Remote)",
+   "employer": "Aisles & Abroad",
+   "location": "Remote (Atlanta)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:44",
+   "url": "https://veritahire.com/j/73672305"
+  },
+  {
+   "title": "Travel Client Success Specialist (Remote)",
+   "employer": "Aisles & Abroad",
+   "location": "Remote (Austin, TX)",
+   "remote": true,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-01",
+   "last_confirmed": "2026-11-01 19:44",
+   "url": "https://veritahire.com/j/73672301"
   },
   {
    "title": "Vacation Planning Specialist (Remote)",
@@ -80,7 +333,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:25",
+   "last_confirmed": "2026-11-01 18:35",
    "url": "https://veritahire.com/j/73611267"
   },
   {
@@ -91,7 +344,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-01",
-   "last_confirmed": "2026-11-01 05:25",
+   "last_confirmed": "2026-11-01 18:35",
    "url": "https://veritahire.com/j/73611254"
   },
   {
@@ -102,7 +355,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$106K–$145K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:38",
+   "last_confirmed": "2026-11-01 22:54",
    "url": "https://veritahire.com/j/73237612"
   },
   {
@@ -113,7 +366,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$128K–$187K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:25",
+   "last_confirmed": "2026-11-01 22:42",
    "url": "https://veritahire.com/j/73211564"
   },
   {
@@ -124,7 +377,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120,000-$150,000 Annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:54",
+   "last_confirmed": "2026-11-01 22:10",
    "url": "https://veritahire.com/j/73191532"
   },
   {
@@ -135,7 +388,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120K–$170K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:54",
+   "last_confirmed": "2026-11-01 22:10",
    "url": "https://veritahire.com/j/73191531"
   },
   {
@@ -146,7 +399,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120K–$150K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:54",
+   "last_confirmed": "2026-11-01 22:10",
    "url": "https://veritahire.com/j/73191530"
   },
   {
@@ -157,7 +410,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$110K–$140K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:39",
+   "last_confirmed": "2026-11-01 21:55",
    "url": "https://veritahire.com/j/73187661"
   },
   {
@@ -168,19 +421,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$20 to $22 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:16",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/73157339"
-  },
-  {
-   "title": "Patient Business Services Billing Specialist - Hospital Billing & Collections",
-   "employer": "MD Anderson Cancer Center",
-   "location": "Remote (TX)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$60K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:07",
-   "url": "https://veritahire.com/j/73144601"
   },
   {
    "title": "Senior Solutions Consultant-Speciality",
@@ -190,7 +432,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$119K–$187K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:32",
+   "last_confirmed": "2026-11-01 20:49",
    "url": "https://veritahire.com/j/73120118"
   },
   {
@@ -201,18 +443,18 @@
    "employment_type": "full_time",
    "pay_as_posted": "$119K–$187K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:32",
+   "last_confirmed": "2026-11-01 20:49",
    "url": "https://veritahire.com/j/73120117"
   },
   {
-   "title": "Certified Pharmacy Technician - Remote US",
+   "title": "Certified Pharmacy Technician (Illinois) - Remote US",
    "employer": "Gainwell Technologies",
    "location": "Remote (IL)",
    "remote": true,
    "employment_type": "full_time",
    "pay_as_posted": "$41,600 - $47,900 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:26",
+   "last_confirmed": "2026-11-01 20:33",
    "url": "https://veritahire.com/j/73118746"
   },
   {
@@ -223,7 +465,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$47K–$76K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:26",
+   "last_confirmed": "2026-11-01 18:36",
    "url": "https://veritahire.com/j/73004131"
   },
   {
@@ -234,7 +476,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$67K–$100K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:23",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72998230"
   },
   {
@@ -245,7 +487,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$112,700 to $193,200 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:27",
    "url": "https://veritahire.com/j/72990501"
   },
   {
@@ -256,7 +498,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$91,700 - $163,700 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:27",
    "url": "https://veritahire.com/j/72990497"
   },
   {
@@ -267,7 +509,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$76K–$200K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:15",
+   "last_confirmed": "2026-11-02 02:32",
    "url": "https://veritahire.com/j/72799144"
   },
   {
@@ -278,7 +520,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$15.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72770606"
   },
   {
@@ -289,7 +531,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$15.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72770589"
   },
   {
@@ -300,7 +542,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$16.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72770580"
   },
   {
@@ -311,7 +553,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$132K–$170K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:12",
+   "last_confirmed": "2026-11-02 01:29",
    "url": "https://veritahire.com/j/72758451"
   },
   {
@@ -322,7 +564,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$144K–$184K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:12",
+   "last_confirmed": "2026-11-02 01:29",
    "url": "https://veritahire.com/j/72758425"
   },
   {
@@ -333,7 +575,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$128K–$160K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:02",
+   "last_confirmed": "2026-11-02 01:09",
    "url": "https://veritahire.com/j/72751026"
   },
   {
@@ -344,7 +586,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$75,000 - $93,500 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:51",
+   "last_confirmed": "2026-11-02 00:57",
    "url": "https://veritahire.com/j/72745978"
   },
   {
@@ -355,7 +597,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$40.38-$58.41 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:51",
+   "last_confirmed": "2026-11-02 00:57",
    "url": "https://veritahire.com/j/72744248"
   },
   {
@@ -366,7 +608,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$36K–$55K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:40",
+   "last_confirmed": "2026-11-02 00:46",
    "url": "https://veritahire.com/j/72737646"
   },
   {
@@ -377,7 +619,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$80,000 - $100,000/yr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:31",
+   "last_confirmed": "2026-11-02 00:47",
    "url": "https://veritahire.com/j/72725276"
   },
   {
@@ -388,7 +630,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$195,750.00 - $391,500.00/yr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:22",
+   "last_confirmed": "2026-11-02 00:41",
    "url": "https://veritahire.com/j/72723475"
   },
   {
@@ -399,7 +641,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$75,214.00 - $112,822.00 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:13",
+   "last_confirmed": "2026-11-02 00:33",
    "url": "https://veritahire.com/j/72719920"
   },
   {
@@ -410,7 +652,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$101K–$135K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:05",
+   "last_confirmed": "2026-11-02 00:16",
    "url": "https://veritahire.com/j/72695300"
   },
   {
@@ -421,7 +663,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$132K–$252K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:54",
+   "last_confirmed": "2026-11-02 00:12",
    "url": "https://veritahire.com/j/72686201"
   },
   {
@@ -432,7 +674,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$69K–$131K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:54",
+   "last_confirmed": "2026-11-02 00:12",
    "url": "https://veritahire.com/j/72686185"
   },
   {
@@ -443,7 +685,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$140,000 - $220,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:08",
    "url": "https://veritahire.com/j/72683891"
   },
   {
@@ -454,19 +696,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$49K–$75K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:10",
    "url": "https://veritahire.com/j/72683802"
-  },
-  {
-   "title": "Account Executive III | Aviation Trip Support",
-   "employer": "Lykins Energy Solutions",
-   "location": "Remote (WEBSTER, TX)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$86K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:51",
-   "url": "https://veritahire.com/j/72683683"
   },
   {
    "title": "AI/ML Engineer",
@@ -476,7 +707,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$118K–$148K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:46",
+   "last_confirmed": "2026-11-02 00:06",
    "url": "https://veritahire.com/j/72677735"
   },
   {
@@ -487,7 +718,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$230K–$380K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:36",
+   "last_confirmed": "2026-11-01 23:59",
    "url": "https://veritahire.com/j/72673755"
   },
   {
@@ -498,7 +729,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$90K–$110K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:36",
+   "last_confirmed": "2026-11-01 23:54",
    "url": "https://veritahire.com/j/72662661"
   },
   {
@@ -509,7 +740,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$175,000 - $200,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:38",
+   "last_confirmed": "2026-11-01 23:55",
    "url": "https://veritahire.com/j/72661961"
   },
   {
@@ -520,7 +751,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$50,000.00 - $53,000.00 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:37",
+   "last_confirmed": "2026-11-01 23:54",
    "url": "https://veritahire.com/j/72661086"
   },
   {
@@ -531,7 +762,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$79K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:28",
+   "last_confirmed": "2026-11-01 23:45",
    "url": "https://veritahire.com/j/72659962"
   },
   {
@@ -542,7 +773,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$131,000 - $228,000/year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:30",
+   "last_confirmed": "2026-11-01 23:46",
    "url": "https://veritahire.com/j/72659547"
   },
   {
@@ -553,7 +784,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$108K–$173K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:28",
+   "last_confirmed": "2026-11-01 23:45",
    "url": "https://veritahire.com/j/72658668"
   },
   {
@@ -564,7 +795,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$90K–$105K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:07",
+   "last_confirmed": "2026-11-01 23:23",
    "url": "https://veritahire.com/j/72640749"
   },
   {
@@ -575,7 +806,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$125K–$223K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:26",
+   "last_confirmed": "2026-11-01 22:41",
    "url": "https://veritahire.com/j/72608334"
   },
   {
@@ -586,7 +817,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$86K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:35",
+   "last_confirmed": "2026-11-01 22:52",
    "url": "https://veritahire.com/j/72607129"
   },
   {
@@ -597,7 +828,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$90K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:13",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581438"
   },
   {
@@ -608,7 +839,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$170K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:13",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581435"
   },
   {
@@ -619,7 +850,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$240K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581334"
   },
   {
@@ -630,7 +861,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$250,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581163"
   },
   {
@@ -641,7 +872,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$250,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581161"
   },
   {
@@ -652,7 +883,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$300,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581160"
   },
   {
@@ -663,7 +894,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$25/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581147"
   },
   {
@@ -674,7 +905,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$200K–$263K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:11",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/72580070"
   },
   {
@@ -685,7 +916,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$159K–$254K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:01",
+   "last_confirmed": "2026-11-01 22:21",
    "url": "https://veritahire.com/j/72575689"
   },
   {
@@ -696,7 +927,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$99K–$174K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:38",
+   "last_confirmed": "2026-11-01 21:51",
    "url": "https://veritahire.com/j/72569190"
   },
   {
@@ -707,7 +938,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$160K–$240K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:30",
+   "last_confirmed": "2026-11-01 21:48",
    "url": "https://veritahire.com/j/72558626"
   },
   {
@@ -718,7 +949,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$55K–$65K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72558216"
   },
   {
@@ -729,7 +960,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60K–$70K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72558213"
   },
   {
@@ -740,7 +971,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$70K–$100K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557829"
   },
   {
@@ -751,7 +982,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$153K–$184K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557485"
   },
   {
@@ -762,7 +993,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$153K–$184K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557484"
   },
   {
@@ -773,7 +1004,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$220K–$250K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557434"
   },
   {
@@ -784,7 +1015,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$19/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:29",
    "url": "https://veritahire.com/j/72551523"
   },
   {
@@ -795,7 +1026,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$130K–$155K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:29",
    "url": "https://veritahire.com/j/72551412"
   },
   {
@@ -806,7 +1037,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$80,000-$90,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72551010"
   },
   {
@@ -817,7 +1048,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$49K–$75K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72546759"
   },
   {
@@ -828,7 +1059,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$92,000 - $130,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544279"
   },
   {
@@ -839,7 +1070,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60K–$63K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544132"
   },
   {
@@ -850,7 +1081,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60K–$63K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544130"
   },
   {
@@ -861,7 +1092,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$15.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72543088"
   },
   {
@@ -872,7 +1103,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$15.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72543079"
   },
   {
@@ -883,7 +1114,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$16.00/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72543070"
   },
   {
@@ -894,7 +1125,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$97,700.00 - $130,300.00 Annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:03",
+   "last_confirmed": "2026-11-01 21:19",
    "url": "https://veritahire.com/j/72541948"
   },
   {
@@ -905,7 +1136,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$40.96 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:05",
+   "last_confirmed": "2026-11-01 21:21",
    "url": "https://veritahire.com/j/72540694"
   },
   {
@@ -916,7 +1147,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$14.15/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:55",
+   "last_confirmed": "2026-11-01 21:10",
    "url": "https://veritahire.com/j/72540342"
   },
   {
@@ -927,7 +1158,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$70K–$101K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:55",
+   "last_confirmed": "2026-11-01 21:10",
    "url": "https://veritahire.com/j/72539617"
   },
   {
@@ -938,7 +1169,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$101,670.40 - $155,750.40 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:54",
+   "last_confirmed": "2026-11-01 21:10",
    "url": "https://veritahire.com/j/72538400"
   },
   {
@@ -949,7 +1180,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$126,152.00 - $198,161.60 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:54",
+   "last_confirmed": "2026-11-01 21:10",
    "url": "https://veritahire.com/j/72538352"
   },
   {
@@ -960,7 +1191,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$35.00 - $45.94 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:56",
+   "last_confirmed": "2026-11-01 21:06",
    "url": "https://veritahire.com/j/72538045"
   },
   {
@@ -971,7 +1202,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$27–$35/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:56",
+   "last_confirmed": "2026-11-01 21:06",
    "url": "https://veritahire.com/j/72537732"
   },
   {
@@ -982,7 +1213,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$19.29 - $23.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:43",
+   "last_confirmed": "2026-11-01 20:58",
    "url": "https://veritahire.com/j/72536235"
   },
   {
@@ -993,7 +1224,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$62K–$120K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:43",
+   "last_confirmed": "2026-11-01 20:59",
    "url": "https://veritahire.com/j/72535323"
   },
   {
@@ -1004,7 +1235,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$125K–$165K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:42",
+   "last_confirmed": "2026-11-01 20:58",
    "url": "https://veritahire.com/j/72535179"
   },
   {
@@ -1015,7 +1246,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$175K–$215K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:51",
    "url": "https://veritahire.com/j/72529813"
   },
   {
@@ -1026,7 +1257,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$172K–$237K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:57",
    "url": "https://veritahire.com/j/72529400"
   },
   {
@@ -1037,7 +1268,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$196K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:57",
    "url": "https://veritahire.com/j/72529399"
   },
   {
@@ -1048,7 +1279,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$150K–$170K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:27",
+   "last_confirmed": "2026-11-01 20:51",
    "url": "https://veritahire.com/j/72527925"
   },
   {
@@ -1059,7 +1290,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$ 21.14-35.13 USD",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:22",
+   "last_confirmed": "2026-11-01 20:44",
    "url": "https://veritahire.com/j/72527664"
   },
   {
@@ -1070,7 +1301,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$ 20.2-32.01 USD",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:22",
+   "last_confirmed": "2026-11-01 20:44",
    "url": "https://veritahire.com/j/72527646"
   },
   {
@@ -1081,7 +1312,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$130K–$172K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:26",
+   "last_confirmed": "2026-11-01 20:47",
    "url": "https://veritahire.com/j/72527465"
   },
   {
@@ -1092,7 +1323,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$153K–$210K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:26",
+   "last_confirmed": "2026-11-01 20:47",
    "url": "https://veritahire.com/j/72527417"
   },
   {
@@ -1103,7 +1334,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$141K–$234K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:24",
+   "last_confirmed": "2026-11-01 20:35",
    "url": "https://veritahire.com/j/72526583"
   },
   {
@@ -1114,7 +1345,7 @@
    "employment_type": "contract",
    "pay_as_posted": "$105–$110/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:14",
+   "last_confirmed": "2026-11-01 20:46",
    "url": "https://veritahire.com/j/72525843"
   },
   {
@@ -1125,7 +1356,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$175–$190K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:16",
+   "last_confirmed": "2026-11-01 20:34",
    "url": "https://veritahire.com/j/72524107"
   },
   {
@@ -1136,7 +1367,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$170K–$225K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:16",
+   "last_confirmed": "2026-11-01 20:34",
    "url": "https://veritahire.com/j/72523747"
   },
   {
@@ -1147,7 +1378,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$71,100 - $97,800 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:41",
+   "last_confirmed": "2026-11-01 20:03",
    "url": "https://veritahire.com/j/72513588"
   },
   {
@@ -1158,7 +1389,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$86,300 - $118,700 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:41",
+   "last_confirmed": "2026-11-01 20:03",
    "url": "https://veritahire.com/j/72513586"
   },
   {
@@ -1169,7 +1400,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$53,700 - $72,600 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:41",
+   "last_confirmed": "2026-11-01 20:03",
    "url": "https://veritahire.com/j/72513531"
   },
   {
@@ -1180,7 +1411,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$99K–$131K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:14",
    "url": "https://veritahire.com/j/72512361"
   },
   {
@@ -1191,7 +1422,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$177K–$365K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:13",
    "url": "https://veritahire.com/j/72512227"
   },
   {
@@ -1202,7 +1433,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$146K–$300K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:13",
    "url": "https://veritahire.com/j/72512223"
   },
   {
@@ -1213,7 +1444,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$159K–$327K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:45",
+   "last_confirmed": "2026-11-01 20:13",
    "url": "https://veritahire.com/j/72512219"
   },
   {
@@ -1224,7 +1455,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$95,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:43",
+   "last_confirmed": "2026-11-01 19:58",
    "url": "https://veritahire.com/j/72509761"
   },
   {
@@ -1235,7 +1466,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60K–$70K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:42",
+   "last_confirmed": "2026-11-01 20:24",
    "url": "https://veritahire.com/j/72507539"
   },
   {
@@ -1246,7 +1477,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$74K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:36",
+   "last_confirmed": "2026-11-01 19:54",
    "url": "https://veritahire.com/j/72497757"
   },
   {
@@ -1257,7 +1488,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$70K–$87K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:22",
+   "last_confirmed": "2026-11-01 19:47",
    "url": "https://veritahire.com/j/72494738"
   },
   {
@@ -1268,7 +1499,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$67,200 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:25",
+   "last_confirmed": "2026-11-01 19:40",
    "url": "https://veritahire.com/j/72493470"
   },
   {
@@ -1279,7 +1510,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$100K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:25",
+   "last_confirmed": "2026-11-01 19:40",
    "url": "https://veritahire.com/j/72493408"
   },
   {
@@ -1290,7 +1521,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$67,500 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:16",
+   "last_confirmed": "2026-11-01 19:49",
    "url": "https://veritahire.com/j/72490773"
   },
   {
@@ -1301,7 +1532,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$75,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:16",
+   "last_confirmed": "2026-11-01 19:49",
    "url": "https://veritahire.com/j/72490770"
   },
   {
@@ -1312,7 +1543,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$67,500 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:16",
+   "last_confirmed": "2026-11-01 19:49",
    "url": "https://veritahire.com/j/72490768"
   },
   {
@@ -1323,7 +1554,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$50K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:09",
+   "last_confirmed": "2026-11-01 19:39",
    "url": "https://veritahire.com/j/72485309"
   },
   {
@@ -1334,7 +1565,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$128000 - $180000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:43",
    "url": "https://veritahire.com/j/72474982"
   },
   {
@@ -1345,7 +1576,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$128000 - $180000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:41",
    "url": "https://veritahire.com/j/72472152"
   },
   {
@@ -1356,7 +1587,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120K–$175K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72463262"
   },
   {
@@ -1367,7 +1598,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120K–$170K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72463261"
   },
   {
@@ -1378,7 +1609,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$25.00 - $35.00 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72463203"
   },
   {
@@ -1389,7 +1620,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$108,000-$135,000 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:09",
    "url": "https://veritahire.com/j/72460313"
   },
   {
@@ -1400,7 +1631,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$150K–$225K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:09",
    "url": "https://veritahire.com/j/72460031"
   },
   {
@@ -1411,7 +1642,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$100K–$110K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:38",
+   "last_confirmed": "2026-11-01 21:50",
    "url": "https://veritahire.com/j/72458850"
   },
   {
@@ -1422,7 +1653,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$108K–$124K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:50",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72457981"
   },
   {
@@ -1433,7 +1664,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$29.30–$33.68/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:50",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72457971"
   },
   {
@@ -1444,7 +1675,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$24.00 - $26.00/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:50",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72457837"
   },
   {
@@ -1455,7 +1686,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$23.00 - $25.00/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:50",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72457825"
   },
   {
@@ -1466,7 +1697,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$181,900.00 /Yr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:50",
+   "last_confirmed": "2026-11-01 19:25",
    "url": "https://veritahire.com/j/72457147"
   },
   {
@@ -1477,7 +1708,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$93K–$168K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:45",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72453718"
   },
   {
@@ -1488,7 +1719,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$70K–$126K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:45",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72453715"
   },
   {
@@ -1499,7 +1730,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$70K–$126K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:45",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72453710"
   },
   {
@@ -1510,7 +1741,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$55K–$70K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:46",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72453663"
   },
   {
@@ -1521,7 +1752,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$200,000 - $250,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:46",
+   "last_confirmed": "2026-11-01 19:07",
    "url": "https://veritahire.com/j/72453660"
   },
   {
@@ -1532,7 +1763,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$185K–$200K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:49",
+   "last_confirmed": "2026-11-01 19:09",
    "url": "https://veritahire.com/j/72449754"
   },
   {
@@ -1543,7 +1774,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120K–$140K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:35",
+   "last_confirmed": "2026-11-01 19:06",
    "url": "https://veritahire.com/j/72444860"
   },
   {
@@ -1554,7 +1785,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$97,700.00 - $130,300.00 Annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:42",
+   "last_confirmed": "2026-11-01 18:59",
    "url": "https://veritahire.com/j/72441210"
   },
   {
@@ -1565,7 +1796,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$20.72- $27.62 Hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:42",
+   "last_confirmed": "2026-11-01 18:59",
    "url": "https://veritahire.com/j/72441209"
   },
   {
@@ -1576,7 +1807,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$129,300.00 - $172,300.00 Annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:42",
+   "last_confirmed": "2026-11-01 18:59",
    "url": "https://veritahire.com/j/72441144"
   },
   {
@@ -1587,19 +1818,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$80,000 - $100,000 per year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:43",
+   "last_confirmed": "2026-11-01 19:02",
    "url": "https://veritahire.com/j/72440928"
-  },
-  {
-   "title": "Firmware Engineer",
-   "employer": "Samsara",
-   "location": "Remote (CA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$114K–$191K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:41",
-   "url": "https://veritahire.com/j/72440582"
   },
   {
    "title": "Director, Executive Accounts",
@@ -1609,7 +1829,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$138K–$220K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:47",
    "url": "https://veritahire.com/j/72429521"
   },
   {
@@ -1620,7 +1840,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$15/hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72429264"
   },
   {
@@ -1631,7 +1851,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$48K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428737"
   },
   {
@@ -1642,7 +1862,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$151K–$604K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:33",
+   "last_confirmed": "2026-11-01 18:37",
    "url": "https://veritahire.com/j/72427552"
   },
   {
@@ -1653,7 +1873,7 @@
    "employment_type": "contract",
    "pay_as_posted": "$33 - $53/hr",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:27",
+   "last_confirmed": "2026-11-01 18:37",
    "url": "https://veritahire.com/j/72426047"
   },
   {
@@ -1664,7 +1884,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120,000 - $130,000 a year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:22",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72421581"
   },
   {
@@ -1675,7 +1895,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$120,000 - $130,000 a year",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:22",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72421579"
   },
   {
@@ -1686,7 +1906,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$188K–$230K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:24",
+   "last_confirmed": "2026-11-01 18:29",
    "url": "https://veritahire.com/j/72411852"
   },
   {
@@ -1697,7 +1917,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$112,700 - $193,200 annually",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
+   "last_confirmed": "2026-11-01 18:27",
    "url": "https://veritahire.com/j/72407099"
   },
   {
@@ -1708,7 +1928,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$140K–$155K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:04",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72404728"
   },
   {
@@ -1719,7 +1939,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$96K–$127K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72404560"
   },
   {
@@ -1730,7 +1950,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$62K–$70K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:14",
    "url": "https://veritahire.com/j/72402668"
   },
   {
@@ -1741,129 +1961,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$95K–$135K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:14",
    "url": "https://veritahire.com/j/72402657"
-  },
-  {
-   "title": "Grants and Contracts Administrator (Remote)",
-   "employer": "Duke Graduate and Professional Student Government (gpsg)",
-   "location": "Remote (NC)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$61K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:14",
-   "url": "https://veritahire.com/j/72401329"
-  },
-  {
-   "title": "Senior Manager, Software Engineering - Global Forwarding Technology",
-   "employer": "C.H. Robinson",
-   "location": "Remote (MN)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$128K–$296K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:02",
-   "url": "https://veritahire.com/j/72393086"
-  },
-  {
-   "title": "Customer Retention Specialist (Pacific Time Hours)",
-   "employer": "Trupanion",
-   "location": "Remote (Seattle, WA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$23/hour",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:57",
-   "url": "https://veritahire.com/j/72391212"
-  },
-  {
-   "title": "Principal Product Manager, FOCUS",
-   "employer": "The Linux Foundation",
-   "location": "Remote (OR)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$225K–$260K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:41",
-   "url": "https://veritahire.com/j/72390883"
-  },
-  {
-   "title": "Director of Sales, Aspen Collection",
-   "employer": "Aspen Skiing Company",
-   "location": "Remote (Denver, CO)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$98K–$120K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:52",
-   "url": "https://veritahire.com/j/72386247"
-  },
-  {
-   "title": "Electrical Factory Inspector (Remote/Travel)",
-   "employer": "Eurofins",
-   "location": "Remote (Chicago, IL)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$50K–$70K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:52",
-   "url": "https://veritahire.com/j/72386066"
-  },
-  {
-   "title": "Territory Manager - Tampa/Orlando",
-   "employer": "Deciphera Pharmaceuticals",
-   "location": "Remote (Tampa, FL)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$199K–$243K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:29",
-   "url": "https://veritahire.com/j/72366102"
-  },
-  {
-   "title": "Territory Manager - Carolinas",
-   "employer": "Deciphera Pharmaceuticals",
-   "location": "Remote (Raleigh, NC)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$199K–$243K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:29",
-   "url": "https://veritahire.com/j/72366100"
-  },
-  {
-   "title": "Territory Manager - Atlanta",
-   "employer": "Deciphera Pharmaceuticals",
-   "location": "Remote (Atlanta, GA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$199K–$243K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:29",
-   "url": "https://veritahire.com/j/72366097"
-  },
-  {
-   "title": "Litigation Associate - Of Counsel (Remote)",
-   "employer": "United Future",
-   "location": "Remote (Los Angeles, CA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$120K–$216K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:11",
-   "url": "https://veritahire.com/j/72354197"
-  },
-  {
-   "title": "Sr. Principal Software Engineer (Remote)",
-   "employer": "The Home Depot",
-   "location": "Remote (GA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": "$170K–$280K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:21",
-   "url": "https://veritahire.com/j/72352451"
   },
   {
    "title": "Associate Counsel - Insurance Defense Litigation (Remote)",
@@ -1873,7 +1972,7 @@
    "employment_type": null,
    "pay_as_posted": "$105K–$187K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:56",
+   "last_confirmed": "2026-11-01 22:11",
    "url": "https://veritahire.com/j/73191578"
   },
   {
@@ -1884,7 +1983,7 @@
    "employment_type": null,
    "pay_as_posted": "$14.50 - $21.80 per hour",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 01:32",
+   "last_confirmed": "2026-11-02 03:43",
    "url": "https://veritahire.com/j/72856202"
   },
   {
@@ -1895,7 +1994,7 @@
    "employment_type": null,
    "pay_as_posted": "$57K–$65K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:43",
+   "last_confirmed": "2026-11-02 01:48",
    "url": "https://veritahire.com/j/72782124"
   },
   {
@@ -1906,7 +2005,7 @@
    "employment_type": null,
    "pay_as_posted": "$111K–$127K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:43",
+   "last_confirmed": "2026-11-02 01:48",
    "url": "https://veritahire.com/j/72782123"
   },
   {
@@ -1917,7 +2016,7 @@
    "employment_type": null,
    "pay_as_posted": "$72K–$130K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72764648"
   },
   {
@@ -1928,7 +2027,7 @@
    "employment_type": null,
    "pay_as_posted": "$95K–$171K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:23",
+   "last_confirmed": "2026-11-02 01:39",
    "url": "https://veritahire.com/j/72764622"
   },
   {
@@ -1939,7 +2038,7 @@
    "employment_type": null,
    "pay_as_posted": "$105K–$120K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557451"
   },
   {
@@ -1950,7 +2049,7 @@
    "employment_type": null,
    "pay_as_posted": "$20.72- $27.62 Hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:03",
+   "last_confirmed": "2026-11-01 21:19",
    "url": "https://veritahire.com/j/72541971"
   },
   {
@@ -1961,7 +2060,7 @@
    "employment_type": null,
    "pay_as_posted": "$16.49 - 26.39 hourly",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:35",
+   "last_confirmed": "2026-11-01 20:49",
    "url": "https://veritahire.com/j/72528900"
   },
   {
@@ -1972,7 +2071,7 @@
    "employment_type": null,
    "pay_as_posted": "$ 18.99-28.11 USD",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:22",
+   "last_confirmed": "2026-11-01 20:44",
    "url": "https://veritahire.com/j/72527669"
   },
   {
@@ -1983,19 +2082,8 @@
    "employment_type": null,
    "pay_as_posted": "$224K–$356K",
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:45",
+   "last_confirmed": "2026-11-01 19:35",
    "url": "https://veritahire.com/j/72427740"
-  },
-  {
-   "title": "Senior Software Engineer",
-   "employer": "C.H. Robinson",
-   "location": "Remote (IL)",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": "$113K–$254K",
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:02",
-   "url": "https://veritahire.com/j/72393102"
   },
   {
    "title": "Manager, Mid-Market Solutions Consulting",
@@ -2005,7 +2093,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:11",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/73204783"
   },
   {
@@ -2016,7 +2104,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:56",
+   "last_confirmed": "2026-11-01 22:11",
    "url": "https://veritahire.com/j/73191642"
   },
   {
@@ -2027,7 +2115,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:24",
+   "last_confirmed": "2026-11-01 21:41",
    "url": "https://veritahire.com/j/73165064"
   },
   {
@@ -2038,7 +2126,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72984555"
   },
   {
@@ -2049,7 +2137,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 01:31",
+   "last_confirmed": "2026-11-02 03:40",
    "url": "https://veritahire.com/j/72851991"
   },
   {
@@ -2060,7 +2148,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 01:17",
+   "last_confirmed": "2026-11-02 03:31",
    "url": "https://veritahire.com/j/72850832"
   },
   {
@@ -2071,7 +2159,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 00:13",
+   "last_confirmed": "2026-11-02 02:19",
    "url": "https://veritahire.com/j/72801999"
   },
   {
@@ -2082,7 +2170,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:53",
+   "last_confirmed": "2026-11-02 01:59",
    "url": "https://veritahire.com/j/72782332"
   },
   {
@@ -2093,7 +2181,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:02",
+   "last_confirmed": "2026-11-02 01:09",
    "url": "https://veritahire.com/j/72756857"
   },
   {
@@ -2104,7 +2192,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:10",
    "url": "https://veritahire.com/j/72683808"
   },
   {
@@ -2115,7 +2203,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:10",
    "url": "https://veritahire.com/j/72683776"
   },
   {
@@ -2126,7 +2214,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:51",
+   "last_confirmed": "2026-11-02 00:09",
    "url": "https://veritahire.com/j/72683737"
   },
   {
@@ -2137,7 +2225,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:51",
+   "last_confirmed": "2026-11-02 00:09",
    "url": "https://veritahire.com/j/72683731"
   },
   {
@@ -2148,7 +2236,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:51",
+   "last_confirmed": "2026-11-02 00:09",
    "url": "https://veritahire.com/j/72683730"
   },
   {
@@ -2159,7 +2247,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:52",
+   "last_confirmed": "2026-11-02 00:09",
    "url": "https://veritahire.com/j/72679402"
   },
   {
@@ -2170,7 +2258,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:38",
+   "last_confirmed": "2026-11-01 23:55",
    "url": "https://veritahire.com/j/72677588"
   },
   {
@@ -2181,7 +2269,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:37",
+   "last_confirmed": "2026-11-01 23:55",
    "url": "https://veritahire.com/j/72661345"
   },
   {
@@ -2192,7 +2280,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:37",
+   "last_confirmed": "2026-11-01 23:54",
    "url": "https://veritahire.com/j/72660983"
   },
   {
@@ -2203,7 +2291,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:30",
+   "last_confirmed": "2026-11-01 23:47",
    "url": "https://veritahire.com/j/72659780"
   },
   {
@@ -2214,7 +2302,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:18",
+   "last_confirmed": "2026-11-01 23:34",
    "url": "https://veritahire.com/j/72651077"
   },
   {
@@ -2225,7 +2313,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:06",
+   "last_confirmed": "2026-11-01 23:22",
    "url": "https://veritahire.com/j/72648134"
   },
   {
@@ -2236,7 +2324,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:07",
+   "last_confirmed": "2026-11-01 23:23",
    "url": "https://veritahire.com/j/72640741"
   },
   {
@@ -2247,7 +2335,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:36",
+   "last_confirmed": "2026-11-01 22:54",
    "url": "https://veritahire.com/j/72630488"
   },
   {
@@ -2258,7 +2346,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:13",
+   "last_confirmed": "2026-11-01 22:31",
    "url": "https://veritahire.com/j/72587759"
   },
   {
@@ -2269,7 +2357,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:13",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581444"
   },
   {
@@ -2280,7 +2368,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581341"
   },
   {
@@ -2291,7 +2379,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581292"
   },
   {
@@ -2302,7 +2390,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581285"
   },
   {
@@ -2313,7 +2401,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581282"
   },
   {
@@ -2324,7 +2412,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581148"
   },
   {
@@ -2335,7 +2423,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:30",
    "url": "https://veritahire.com/j/72581145"
   },
   {
@@ -2346,7 +2434,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/72580815"
   },
   {
@@ -2357,7 +2445,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:12",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/72580806"
   },
   {
@@ -2368,7 +2456,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:11",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/72580723"
   },
   {
@@ -2379,7 +2467,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 20:11",
+   "last_confirmed": "2026-11-01 22:29",
    "url": "https://veritahire.com/j/72580719"
   },
   {
@@ -2390,7 +2478,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:29",
+   "last_confirmed": "2026-11-01 21:47",
    "url": "https://veritahire.com/j/72557449"
   },
   {
@@ -2401,7 +2489,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:24",
+   "last_confirmed": "2026-11-01 21:39",
    "url": "https://veritahire.com/j/72557144"
   },
   {
@@ -2412,7 +2500,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:16",
+   "last_confirmed": "2026-11-01 21:31",
    "url": "https://veritahire.com/j/72554923"
   },
   {
@@ -2423,7 +2511,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:16",
+   "last_confirmed": "2026-11-01 21:31",
    "url": "https://veritahire.com/j/72553242"
   },
   {
@@ -2434,18 +2522,18 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550740"
   },
   {
-   "title": "Program Manager, San Francisco",
+   "title": "Operations Associate, San Francisco",
    "employer": "Ambrook",
    "location": "Remote (San Francisco, CA)",
    "remote": true,
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550738"
   },
   {
@@ -2456,7 +2544,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:17",
+   "last_confirmed": "2026-11-01 21:28",
    "url": "https://veritahire.com/j/72550616"
   },
   {
@@ -2467,7 +2555,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:18",
+   "last_confirmed": "2026-11-01 21:38",
    "url": "https://veritahire.com/j/72550294"
   },
   {
@@ -2478,7 +2566,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72546765"
   },
   {
@@ -2489,7 +2577,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72546620"
   },
   {
@@ -2500,7 +2588,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544330"
   },
   {
@@ -2511,7 +2599,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544126"
   },
   {
@@ -2522,7 +2610,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:04",
+   "last_confirmed": "2026-11-01 21:20",
    "url": "https://veritahire.com/j/72544000"
   },
   {
@@ -2533,7 +2621,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:53",
+   "last_confirmed": "2026-11-01 21:09",
    "url": "https://veritahire.com/j/72537916"
   },
   {
@@ -2544,7 +2632,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:42",
+   "last_confirmed": "2026-11-01 20:58",
    "url": "https://veritahire.com/j/72535181"
   },
   {
@@ -2555,7 +2643,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:51",
    "url": "https://veritahire.com/j/72529302"
   },
   {
@@ -2566,7 +2654,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:37",
+   "last_confirmed": "2026-11-01 20:57",
    "url": "https://veritahire.com/j/72528910"
   },
   {
@@ -2577,7 +2665,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:35",
+   "last_confirmed": "2026-11-01 20:49",
    "url": "https://veritahire.com/j/72528896"
   },
   {
@@ -2588,7 +2676,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:35",
+   "last_confirmed": "2026-11-01 20:48",
    "url": "https://veritahire.com/j/72528874"
   },
   {
@@ -2599,7 +2687,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:57",
    "url": "https://veritahire.com/j/72528829"
   },
   {
@@ -2610,7 +2698,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:36",
+   "last_confirmed": "2026-11-01 20:51",
    "url": "https://veritahire.com/j/72528274"
   },
   {
@@ -2621,7 +2709,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:26",
+   "last_confirmed": "2026-11-01 20:48",
    "url": "https://veritahire.com/j/72527522"
   },
   {
@@ -2632,7 +2720,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:17",
+   "last_confirmed": "2026-11-01 20:35",
    "url": "https://veritahire.com/j/72526115"
   },
   {
@@ -2643,7 +2731,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:51",
+   "last_confirmed": "2026-11-01 20:10",
    "url": "https://veritahire.com/j/72518661"
   },
   {
@@ -2654,7 +2742,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:43",
+   "last_confirmed": "2026-11-01 20:31",
    "url": "https://veritahire.com/j/72508918"
   },
   {
@@ -2665,7 +2753,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:37",
+   "last_confirmed": "2026-11-01 19:53",
    "url": "https://veritahire.com/j/72502370"
   },
   {
@@ -2676,7 +2764,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:21",
+   "last_confirmed": "2026-11-01 19:47",
    "url": "https://veritahire.com/j/72494692"
   },
   {
@@ -2687,7 +2775,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:21",
+   "last_confirmed": "2026-11-01 19:39",
    "url": "https://veritahire.com/j/72492881"
   },
   {
@@ -2698,7 +2786,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:25",
+   "last_confirmed": "2026-11-01 19:51",
    "url": "https://veritahire.com/j/72491656"
   },
   {
@@ -2709,7 +2797,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:24",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72491520"
   },
   {
@@ -2720,7 +2808,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:24",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72491484"
   },
   {
@@ -2731,7 +2819,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:10",
+   "last_confirmed": "2026-11-01 19:39",
    "url": "https://veritahire.com/j/72485693"
   },
   {
@@ -2742,7 +2830,7 @@
    "employment_type": "contract",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:15",
+   "last_confirmed": "2026-11-01 19:50",
    "url": "https://veritahire.com/j/72483996"
   },
   {
@@ -2753,7 +2841,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:04",
+   "last_confirmed": "2026-11-01 19:45",
    "url": "https://veritahire.com/j/72479815"
   },
   {
@@ -2764,7 +2852,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:52",
    "url": "https://veritahire.com/j/72467266"
   },
   {
@@ -2775,7 +2863,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:52",
    "url": "https://veritahire.com/j/72467265"
   },
   {
@@ -2786,7 +2874,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
+   "last_confirmed": "2026-11-01 19:52",
    "url": "https://veritahire.com/j/72467264"
   },
   {
@@ -2797,7 +2885,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:51",
+   "last_confirmed": "2026-11-01 19:10",
    "url": "https://veritahire.com/j/72461938"
   },
   {
@@ -2808,7 +2896,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:48",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72449710"
   },
   {
@@ -2819,7 +2907,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:48",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72449408"
   },
   {
@@ -2830,7 +2918,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:46",
+   "last_confirmed": "2026-11-01 18:55",
    "url": "https://veritahire.com/j/72437903"
   },
   {
@@ -2841,7 +2929,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:41",
+   "last_confirmed": "2026-11-01 19:00",
    "url": "https://veritahire.com/j/72430872"
   },
   {
@@ -2852,7 +2940,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:41",
+   "last_confirmed": "2026-11-01 19:00",
    "url": "https://veritahire.com/j/72430871"
   },
   {
@@ -2863,7 +2951,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:41",
+   "last_confirmed": "2026-11-01 19:00",
    "url": "https://veritahire.com/j/72430865"
   },
   {
@@ -2874,7 +2962,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72429260"
   },
   {
@@ -2885,7 +2973,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428740"
   },
   {
@@ -2896,7 +2984,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72427692"
   },
   {
@@ -2907,7 +2995,7 @@
    "employment_type": "contract",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:27",
+   "last_confirmed": "2026-11-01 18:37",
    "url": "https://veritahire.com/j/72426049"
   },
   {
@@ -2918,7 +3006,7 @@
    "employment_type": "contract",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:01",
+   "last_confirmed": "2026-11-01 18:06",
    "url": "https://veritahire.com/j/72404552"
   },
   {
@@ -2929,7 +3017,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:01",
+   "last_confirmed": "2026-11-01 18:06",
    "url": "https://veritahire.com/j/72404550"
   },
   {
@@ -2940,7 +3028,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72402655"
   },
   {
@@ -2951,7 +3039,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72402653"
   },
   {
@@ -2962,63 +3050,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
+   "last_confirmed": "2026-11-01 18:17",
    "url": "https://veritahire.com/j/72402649"
-  },
-  {
-   "title": "Bilingual Massachusetts Impaired Driving (MID) Instructor",
-   "employer": "Mental Health Association - Western MA",
-   "location": "Remote (MA)",
-   "remote": true,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:42",
-   "url": "https://veritahire.com/j/72392408"
-  },
-  {
-   "title": "Book Keeper",
-   "employer": "Jobs for Humanity",
-   "location": "Remote (Chicago, IL)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
-   "url": "https://veritahire.com/j/72388989"
-  },
-  {
-   "title": "Senior Program Manager",
-   "employer": "Hitachi",
-   "location": "Remote",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 04:53",
-   "url": "https://veritahire.com/j/72363576"
-  },
-  {
-   "title": "Destination Wedding & Honeymoon Travel Consultant | Fully Remote",
-   "employer": "Aisles & Abroad",
-   "location": "Remote (Atlanta)",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
-   "url": "https://veritahire.com/j/73060111"
-  },
-  {
-   "title": "Client Support Specialist - Travel Services - Remote",
-   "employer": "Aisles & Abroad",
-   "location": "Remote (NJ)",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:03",
-   "url": "https://veritahire.com/j/73060091"
   },
   {
    "title": "Biomedical Equipment Technician 1",
@@ -3028,7 +3061,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:23",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72998231"
   },
   {
@@ -3039,7 +3072,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:02",
+   "last_confirmed": "2026-11-02 01:19",
    "url": "https://veritahire.com/j/72756927"
   },
   {
@@ -3050,7 +3083,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 23:02",
+   "last_confirmed": "2026-11-02 01:19",
    "url": "https://veritahire.com/j/72756917"
   },
   {
@@ -3061,7 +3094,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 22:04",
+   "last_confirmed": "2026-11-02 00:14",
    "url": "https://veritahire.com/j/72706970"
   },
   {
@@ -3072,7 +3105,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:59",
+   "last_confirmed": "2026-11-02 00:16",
    "url": "https://veritahire.com/j/72687996"
   },
   {
@@ -3083,7 +3116,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:40",
+   "last_confirmed": "2026-11-02 00:00",
    "url": "https://veritahire.com/j/72663904"
   },
   {
@@ -3094,7 +3127,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:39",
+   "last_confirmed": "2026-11-01 23:56",
    "url": "https://veritahire.com/j/72661092"
   },
   {
@@ -3105,7 +3138,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 21:06",
+   "last_confirmed": "2026-11-01 23:23",
    "url": "https://veritahire.com/j/72640690"
   },
   {
@@ -3116,7 +3149,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544333"
   },
   {
@@ -3127,7 +3160,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72544321"
   },
   {
@@ -3138,7 +3171,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:05",
+   "last_confirmed": "2026-11-01 21:21",
    "url": "https://veritahire.com/j/72544078"
   },
   {
@@ -3149,19 +3182,8 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 19:08",
+   "last_confirmed": "2026-11-01 21:27",
    "url": "https://veritahire.com/j/72543923"
-  },
-  {
-   "title": "Remote --- Bilingual Spanish/English Customer Service Representative ---Remote",
-   "employer": "Careersus Teleperformance",
-   "location": "Remote (AZ)",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:43",
-   "url": "https://veritahire.com/j/72535360"
   },
   {
    "title": "Account Executive - MI Clarity - Indiana-Cincinnati",
@@ -3171,7 +3193,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 18:42",
+   "last_confirmed": "2026-11-01 20:58",
    "url": "https://veritahire.com/j/72535183"
   },
   {
@@ -3182,7 +3204,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:51",
+   "last_confirmed": "2026-11-01 20:25",
    "url": "https://veritahire.com/j/72515611"
   },
   {
@@ -3193,7 +3215,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:39",
    "url": "https://veritahire.com/j/72472522"
   },
   {
@@ -3204,7 +3226,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 17:02",
+   "last_confirmed": "2026-11-01 19:43",
    "url": "https://veritahire.com/j/72472488"
   },
   {
@@ -3215,7 +3237,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:46",
+   "last_confirmed": "2026-11-01 19:05",
    "url": "https://veritahire.com/j/72448312"
   },
   {
@@ -3226,7 +3248,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:47",
+   "last_confirmed": "2026-11-01 19:08",
    "url": "https://veritahire.com/j/72447022"
   },
   {
@@ -3237,7 +3259,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:44",
+   "last_confirmed": "2026-11-01 19:05",
    "url": "https://veritahire.com/j/72445479"
   },
   {
@@ -3248,7 +3270,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:46",
+   "last_confirmed": "2026-11-01 18:55",
    "url": "https://veritahire.com/j/72437887"
   },
   {
@@ -3259,7 +3281,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:43",
+   "last_confirmed": "2026-11-01 18:46",
    "url": "https://veritahire.com/j/72428738"
   },
   {
@@ -3270,7 +3292,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-10-31 16:45",
+   "last_confirmed": "2026-11-01 19:35",
    "url": "https://veritahire.com/j/72427756"
   },
   {
@@ -3281,30 +3303,8 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:23",
+   "last_confirmed": "2026-11-01 18:28",
    "url": "https://veritahire.com/j/72418345"
-  },
-  {
-   "title": "Merchant Sales Representative",
-   "employer": "Mascoma Bank",
-   "location": "Remote (VT)",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:05",
-   "url": "https://veritahire.com/j/72393876"
-  },
-  {
-   "title": "Principal IAM Engineer",
-   "employer": "Lantern",
-   "location": "Remote",
-   "remote": true,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-31",
-   "last_confirmed": "2026-11-01 05:44",
-   "url": "https://veritahire.com/j/72393342"
   }
  ]
 }
